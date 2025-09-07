@@ -497,18 +497,74 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/9_project/";
             },},{
+        id: 'social-academia_edu',
+        title: 'Academia_edu',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
+        },
+      },{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://bsky.app/profile/nevmenandr.bsky.social", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%6E%65%76%6D%65%6E%61%6E%64%72@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-flickr',
+        title: 'Flickr',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://www.flickr.com/nevmenandr", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/nevmenandr", "_blank");
+        },
+      },{
+        id: 'social-kaggle',
+        title: 'Kaggle',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.kaggle.com/borisorekhov", "_blank");
+        },
+      },{
+        id: 'social-mastodon',
+        title: 'Mastodon',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://mastodon.social/@nevmenandr", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-9099-0436", "_blank");
+        },
+      },{
+        id: 'social-osf',
+        title: 'Open Science Framework',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://osf.io/phy74/", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Boris-Orekhov/", "_blank");
         },
       },{
         id: 'social-rss',
@@ -522,14 +578,63 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=EMcL0ioAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-scopus',
+        title: 'Scopus',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://www.scopus.com/authid/detail.uri?authorId=57190401804", "_blank");
+        },
+      },{
+        id: 'social-semanticscholar',
+        title: 'Semantic Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.semanticscholar.org/author/2080424505", "_blank");
+        },
+      },{
+        id: 'social-telegram',
+        title: 'telegram',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://telegram.me/nevmenandr", "_blank");
+        },
+      },{
+        id: 'social-wikidata',
+        title: 'Wikidata',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.wikidata.org/wiki/Q58437028", "_blank");
+        },
+      },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.hse.ru/staff/borekhov", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/nevmenandr", "_blank");
+        },
+      },{
+        id: 'social-youtube',
+        title: 'YouTube',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://youtube.com/@HumanitiesUnveiledFromJournalt", "_blank");
+        },
+      },{
+        id: 'social-zotero',
+        title: 'Zotero',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.zotero.org/nevmenandr", "_blank");
         },
       },{
       id: 'light-theme',
