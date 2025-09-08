@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Meaningfull projects.",
+          description: "Web-services, podcasts, datasets, models, fonts, games.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/projects/";
