@@ -2,7 +2,7 @@
 layout: page
 title: Параллельный корпус переводов «Слова о полку Игореве»
 description: Электронный инструмент для сопоставительного чтения переводов средневекового памятника
-img: assets/img/spi1.jpg
+img: assets/img/spi1.png
 importance: 1
 category: science
 related_publications: true
