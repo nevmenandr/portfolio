@@ -4,7 +4,7 @@ title: Параллельный корпус переводов «Слова о 
 description: Электронный инструмент для сопоставительного чтения переводов средневекового памятника
 img: assets/img/spi1.jpg
 importance: 1
-category: work
+category: science
 related_publications: true
 ---
 
