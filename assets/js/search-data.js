@@ -51,9 +51,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/teaching/";
           },
-        },{id: "nav-datasets",
-          title: "datasets",
-          description: "наборы данных",
+        },{id: "nav-data",
+          title: "data",
+          description: "datasets, preprints, citable software",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/data/";
