@@ -532,13 +532,6 @@ ninja.data = [{
           window.open("https://github.com/nevmenandr", "_blank");
         },
       },{
-        id: 'social-kaggle',
-        title: 'Kaggle',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.kaggle.com/borisorekhov", "_blank");
-        },
-      },{
         id: 'social-mastodon',
         title: 'Mastodon',
         section: 'Socials',
@@ -564,7 +557,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Boris-Orekhov/", "_blank");
+          window.open("https://www.researchgate.net/profile/Boris-Orekhov/", "_blank");
         },
       },{
         id: 'social-rss',
