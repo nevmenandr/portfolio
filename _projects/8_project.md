@@ -2,7 +2,7 @@
 layout: page
 title: Шрифты
 description: Гарнитуры, стилизованные под типографию XVIII века и древнеримский курсив
-img: assets/img/18cent.jpg
+img: assets/img/18cent.png
 importance: 3
 category: fun
 related_publications: true
