@@ -19,7 +19,7 @@ github_username: nevmenandr # your GitHub user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # instagram_id: # your instagram id
-kaggle_id: borisorekhov # your kaggle id
+# kaggle_id: borisorekhov # your kaggle id
 # keybase_username: # your keybase user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
@@ -32,7 +32,7 @@ osf_id: phy74 # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
-research_gate_profile: https://www.researchgate.net/profile/Boris-Orekhov # your profile on ResearchGate
+research_gate_profile: Boris-Orekhov # your profile on ResearchGate
 rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: EMcL0ioAAAAJ # your Google Scholar ID
 scopus_id: 57190401804 # your profile on Scopus
