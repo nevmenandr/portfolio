@@ -1,27 +1,15 @@
 # Data
 
-<ul class="fa-ul" style="font-size: 2em;">
-  <li><span class="fa-li"><i class="ai ai-dataverse"></i></span>List icons can</li>
-  <li><span class="fa-li"><i class="ai ai-osf"></i></span>be used to</li>
-  <li><span class="fa-li"><i class="ai ai-osf-square"></i></span>replace bullets</li>
-  <li><span class="fa-li"><i class="ai ai-osf-square"></i></span>replace bullets</li>
-  <li><span class="fa-li"><i class="ai ai-osf-square"></i></span>replace bullets</li>
-  <li><span class="fa-li"><i class="ai ai-dataverse-square"></i></span>in lists</li>
-  <li><span class="fa-li"><i class="ai ai-dataverse-square"></i></span>in lists</li>
-  <li><span class="fa-li"><i class="ai ai-dataverse-square"></i></span>in lists</li>
-  <li><span class="fa-li"><i class="ai ai-dataverse-square"></i></span>in lists</li>
-  <li><span class="fa-li"><i class="ai ai-zenodo-square"></i></span>in lists</li>
-  <li><span class="fa-li"><i class="ai ai-zenodo"></i></span>in lists</li>
+<ul class="fa-ul" style="font-size: 2 em;">
+  <li><span class="fa-li"><i class="ai ai-dataverse"></i></span>Маршрут путешествия в поэме И. П. Мятлева «Сенсации и замечания госпожи Курдюковой за границею, дан л'этранже»</li>
+  <li><span class="fa-li"><i class="ai ai-osf"></i></span>Keyness Measures in Russian 19th Century Literature</li>
+  <li><span class="fa-li"><i class="ai ai-osf"></i></span>Geocoding of Russian Prose of the 19th Century</li>
+  <li><span class="fa-li"><i class="ai ai-osf"></i></span>Stylometry data for the Rowling case</li>
+  <li><span class="fa-li"><i class="ai ai-osf"></i></span>Delta for Tang Poets</li>
+  <li><span class="fa-li"><i class="ai ai-dataverse"></i></span>Русско-европейские литературные связи XVIII века</li>
+  <li><span class="fa-li"><i class="ai ai-zenodo"></i></span>German Generated Poetic Texts</li>
+  <li><span class="fa-li"><i class="ai ai-zenodo"></i></span>Неизвестный язык ко дню рождения Михаила Даниэля</li>
+  <li><span class="fa-li"><i class="ai ai-dataverse"></i></span>Словарь русских писателей XVIII века: сеть персоналий</li>
+  <li><span class="fa-li"><i class="ai ai-dataverse"></i></span>«Камер-фурьерский журнал» В. Ходасевича</li>
+  <li><span class="fa-li"><i class="ai ai-dataverse"></i></span>Стилеметрические данные «Тихого Дона» и современной ему прозы</li>
 </ul>
-
-# Preprints
-
-<i class="ai ai-arxiv-square ai-3x"></i>
-
-# Citation
-
-<i class="ai ai-zenodo-square ai-3x"></i>
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
