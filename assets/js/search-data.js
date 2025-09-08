@@ -481,9 +481,9 @@ ninja.data = [{
           description: "Подкаст об университете",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-демонтаж-красноречия",
+          title: 'Демонтаж красноречия',
+          description: "Просветительский проект",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/7_project/";
             },},{id: "projects-project-8",
