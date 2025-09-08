@@ -2,8 +2,8 @@
 layout: page
 title: Сеть персоналий в Словаре русских писателей XVIII века
 description: another without an image
-img:
-importance: 3
+img: /img/network18.png
+importance: 2
 category: science
 ---
 
