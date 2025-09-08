@@ -486,9 +486,9 @@ ninja.data = [{
           description: "Просветительский проект",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-шрифты",
+          title: 'Шрифты',
+          description: "Гарнитуры, стилизованные под типографию XVIII века и древнеримский курсив",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/8_project/";
             },},{id: "projects-project-9",
