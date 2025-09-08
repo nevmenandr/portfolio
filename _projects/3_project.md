@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Национальный корпус русского языка
+description: Коллекция текстов на русском языке, оснащенная разметкой и инструментами поиска
+img: assets/img/ruscorp.png
+redirect: https://ruscorpora.ru
 importance: 3
 category: science
 related_publications: true
