@@ -111,11 +111,11 @@
       ]
     },
     {
-      "name": "Типографика",
+      "name": "Typography",
       "icon": "fa-solid fa-font",
       "keywords": [
         "LaTeX",
-        "шрифты"
+        "font design"
       ]
     }
   ],
