@@ -51,6 +51,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/teaching/";
           },
+        },{id: "nav-data",
+          title: "data",
+          description: "datasets, preprints, citable software",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/portfolio/data/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -445,6 +452,16 @@ ninja.data = [{
           description: "Аудиоэссе о текстах и литературе",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/12_project/";
+            },},{id: "projects-автандил",
+          title: 'Автандил',
+          description: "Язык программирования для нужд Digital Humanities",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/projects/13_project/";
+            },},{id: "projects-римский-календарь",
+          title: 'Римский календарь',
+          description: "Перевод дат современного календаря в даты древнеримского календаря",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/projects/14_project/";
             },},{id: "projects-параллельный-корпус-переводов-слова-о-полку-игореве",
           title: 'Параллельный корпус переводов «Слова о полку Игореве»',
           description: "Электронный инструмент для сопоставительного чтения переводов средневекового памятника",
