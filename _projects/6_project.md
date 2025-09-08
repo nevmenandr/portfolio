@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
+title: Лига Айвы
+description: Подкаст об университете
+img: assets/img/ivy.jpg
+importance: 1
 category: fun
 ---
 
