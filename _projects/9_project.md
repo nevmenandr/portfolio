@@ -2,7 +2,7 @@
 layout: page
 title: Шахматный дуатлон
 description: Игра, соединяющая шахматы и го
-img: assets/img/chessgo.jpg
+img: assets/img/chessgo.png
 importance: 4
 category: fun
 ---
