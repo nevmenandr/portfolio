@@ -451,7 +451,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-параллельный-корпус-переводов-слова-о-полку-игореве",
+          section: "News",},{id: "projects-w2v-russian-fiction",
+          title: 'w2v-russian-fiction',
+          description: "Большая векторная модель русской художественной прозы",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/projects/10_project/";
+            },},{id: "projects-параллельный-корпус-переводов-слова-о-полку-игореве",
           title: 'Параллельный корпус переводов «Слова о полку Игореве»',
           description: "Электронный инструмент для сопоставительного чтения переводов средневекового памятника",
           section: "Projects",handler: () => {
