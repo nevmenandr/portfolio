@@ -1,9 +1,7 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"Труды ИРЯ":
+  url: https://trudy.ruslang.ru/ru
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
+"ЦГИ":
   color: "#009f36"
+  url: https://pushkinskijdom.ru/zhurnal-tsifrovye-issledovaniya/
