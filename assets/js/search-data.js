@@ -51,12 +51,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+        },{id: "nav-datasets",
+          title: "datasets",
+          description: "наборы данных",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/portfolio/people/";
+            window.location.href = "/portfolio/data/";
           },
         },{id: "post-a-post-with-plotly-js",
         
