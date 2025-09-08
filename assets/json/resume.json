@@ -6,13 +6,12 @@
     "email": "nevmenandr@gmail.com",
     "phone": "(916) 526-09-51",
     "url": "https://nevmenandr.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Texts & computers",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "11 Pokrovsky Bulvar",
+      "postalCode": "109028",
+      "city": "Moscow",
+      "countryCode": "RU"
     },
     "profiles": [
       {
@@ -24,42 +23,57 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "School of Linguistics, HSE University",
+      "position": "Associate Professor",
+      "url": "https://www.hse.ru/en/staff/borekhov/",
+      "startDate": "2013-03-01"
+    },
+    {
+      "name": "Laboratory for Digital Research of Literature and Folklore, Institute of Russian Literature (Pushkin House) of the Russian Academy of Sciences",
+      "position": "Senior Research Fellow",
+      "url": "https://pushkinskijdom.ru/laboratoriya-tsifrovyh-issledovanij-literatury-i-folklora_/boris-valerevich-orehov/",
+      "startDate": "2022-03-01"
+    },
+    {
+      "name": "Laboratory of Computer Philology, Bashkir State University",
+      "position": "engineer",
+      "startDate": "2011-01-01",
+      "endDate": "2014-01-01"
+    },
+    {
+      "name": "Department of Foreign Literature, Bashkir State Pedagogical University",
+      "position": "Senior Lecturer",
+      "startDate": "2006-01-01",
+      "endDate": "2011-01-01"
     }
+    
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Bashkir State University, Ufa, Russia",
+      "location": "Ufa, Russia",
+      "url": "https://bashedu.ru/",
+      "area": "Philology",
+      "studyType": "MA",
+      "startDate": "1999-09-01",
+      "endDate": "2005-06-30"
+      "courses": ["History of Russian Literature"]
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Запуск подкаста: от идеи до монетизации",
+      "date": "2023-12-04",
+      "issuer": "HSE University",
+      "url": "https://www.hse.ru/mirror/pubs/share/880462498.pdf,
+      "icon": "fa-solid fa-microphone"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Введение в облачные технологии",
+      "date": "2020-01-31",
+      "issuer": "HSE University",
+      "url": "https://www.hse.ru/mirror/pubs/share/522311004.pdf",
+      "icon": "fa-solid fa-server"
     }
   ],
   "publications": [
