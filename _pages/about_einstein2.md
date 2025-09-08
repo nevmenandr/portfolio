@@ -1,20 +1,17 @@
 # Citable software
 
-<i class="ai ai-zenodo ai-2x"></i>
+<i class="ai ai-zenodo ai-2x"></i> [Модуль предобработки текстовых материалов для журнала «Цифровые гуманитарные исследования»](https://doi.org/10.5281/zenodo.16956676)
 
-<span class="fa-stack" style="vertical-align: top;">
-  <i class="far fa-circle fa-stack-2x"></i>
-  <i class="ai ai-academia ai-stack-1x"></i>
-</span>
+<i class="ai ai-zenodo ai-2x"></i> [TexTransform. The script that can transform Russian plain text into latex format using many typographic features](https://doi.org/10.5281/zenodo.12813767)
 
-<span class="fa-stack" style="vertical-align: top;">
-  <i class="far fa-circle fa-stack-2x"></i>
-  <i class="ai ai-zenodo ai-stack-1x"></i>
-</span>
+<i class="ai ai-zenodo ai-2x"></i> [Avtandil programming language](https://doi.org/10.5281/zenodo.12814594)
 
-<ul class="fa-ul" style="font-size: 2 em;">
-  <li><span class="fa-li"><i class="ai ai-arxiv"></i></span>You shall know a piece by the company it keeps. Chess plays as a data for word2vec models</li>
-  <li><span class="fa-li"><i class="ai ai-arxiv"></i></span>Does Burrows' Delta really confirm that Rowling and Galbraith are the same author?</li>
-  <li><span class="fa-li"><i class="ai ai-arxiv"></i></span>How does Burrows' Delta work on medieval Chinese poetic texts?</li>
-  <li><span class="fa-li"><i class="ai ai-arxiv"></i></span>Identifying the Style by a Qualified Reader on a Short Fragment of Generated Poetry</li>
-</ul>
+<i class="ai ai-zenodo ai-2x"></i> [Chess_bead. Package for the both chess and Chinese poetry game](https://doi.org/10.5281/zenodo.12814014)
+
+<i class="ai ai-zenodo ai-2x"></i> [Lines merge OCR. The script that merges lines after extracting plain text from a pdf that produces OCR](https://doi.org/10.5281/zenodo.12814092)
+
+<i class="ai ai-zenodo ai-2x"></i> [Replace u with v. The code that replaces "u" with "v" in Latin text under the specified conditions](https://doi.org/10.5281/zenodo.15061592)
+
+<i class="ai ai-zenodo ai-2x"></i> [Rus novel desktop app. Десктопное приложение для создания размеченных файлов корпуса русского романа](https://doi.org/10.5281/zenodo.12814190)
+
+<i class="ai ai-zenodo ai-2x"></i> [Rus2latin date. Python package for Russian date conversion into Latin](https://doi.org/10.5281/zenodo.12814188)
