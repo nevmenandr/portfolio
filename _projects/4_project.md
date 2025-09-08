@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Сеть персоналий в Словаре русских писателей XVIII века
-description: another without an image
+description: Междустатейные ссылки в виде графа
 img: assets/img/network18.png
 importance: 2
 category: science
