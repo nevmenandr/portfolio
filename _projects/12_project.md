@@ -2,7 +2,7 @@
 layout: page
 title: Некраткие содежания
 description: Аудиоэссе о текстах и литературе
-img: assets/img/nonbrevia.png
+img: assets/img/nonbrevia.jpg
 importance: 4
 category: fun
 ---
