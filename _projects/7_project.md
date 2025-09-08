@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
+title: Демонтаж красноречия
+description: Просветительский проект
+img: assets/img/schonen.png
 importance: 2
 category: fun
 related_publications: true
