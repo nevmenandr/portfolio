@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
+title: Шахматный дуатлон
+description: Игра, соединяющая шахматы и го
+img: assets/img/chessgo.jpg
 importance: 4
 category: fun
 ---
