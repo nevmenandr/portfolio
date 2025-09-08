@@ -25,7 +25,7 @@ profiles:
     more_info: >
       <p>arxiv</p>
   - align: right
-    image: persons18c.jpg
+    image: desktop.png
     content: about_einstein2.md
     image_circular: true # crops the image to make it circular
     more_info: >
