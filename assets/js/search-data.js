@@ -468,7 +468,7 @@ ninja.data = [{
               window.location.href = "/portfolio/projects/3_project/";
             },},{id: "projects-сеть-персоналий-в-словаре-русских-писателей-xviii-века",
           title: 'Сеть персоналий в Словаре русских писателей XVIII века',
-          description: "another without an image",
+          description: "Междустатейные ссылки в виде графа",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/4_project/";
             },},{id: "projects-project-5",
