@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Meaningfull projects.
+description: Web-services, podcasts, datasets, models, fonts, games.
 nav: true
 nav_order: 3
 display_categories: [science, fun]
