@@ -50,6 +50,14 @@
   ],
   "education": [
     {
+      "institution": "Voronezh State University, Voronezh, Russia",
+      "location": "Voronezh, Russia",
+      "area": "Philology",
+      "studyType": "PhD",
+      "endDate": "2008-02-27",
+      "courses": ["Russian Literature"]
+    },
+    {
       "institution": "Bashkir State University, Ufa, Russia",
       "location": "Ufa, Russia",
       "url": "https://bashedu.ru/",
