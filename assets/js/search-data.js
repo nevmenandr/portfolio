@@ -51,13 +51,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/teaching/";
           },
-        },{id: "nav-data",
-          title: "data",
-          description: "datasets, preprints, citable software",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/portfolio/data/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
