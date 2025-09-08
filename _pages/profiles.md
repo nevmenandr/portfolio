@@ -18,10 +18,10 @@ profiles:
       <p>dataverse.pushdom.ru</p>
       <p>osf.io</p>
       <p>zenodo</p>
-  - align: left
+  - align: right
     image: chessw2v.png
     content: about_einstein1.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
       <p>arxiv</p>
 
