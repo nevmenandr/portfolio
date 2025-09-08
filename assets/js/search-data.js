@@ -466,8 +466,8 @@ ninja.data = [{
           description: "Коллекция текстов на русском языке, оснащенная разметкой и инструментами поиска",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
+            },},{id: "projects-сеть-персоналий-в-словаре-русских-писателей-xviii-века",
+          title: 'Сеть персоналий в Словаре русских писателей XVIII века',
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/4_project/";
