@@ -491,9 +491,9 @@ ninja.data = [{
           description: "Гарнитуры, стилизованные под типографию XVIII века и древнеримский курсив",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-шахматный-дуатлон",
+          title: 'Шахматный дуатлон',
+          description: "Игра, соединяющая шахматы и го",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/9_project/";
             },},{
