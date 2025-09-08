@@ -481,19 +481,19 @@ ninja.data = [{
           description: "Подкаст об университете",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/6_project/";
-            },},{id: "projects-демонтаж-красноречия",
-          title: 'Демонтаж красноречия',
-          description: "Просветительский проект",
+            },},{id: "projects-project-7",
+          title: 'project 7',
+          description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/7_project/";
-            },},{id: "projects-шрифты",
-          title: 'Шрифты',
-          description: "Гарнитуры, стилизованные под типографию XVIII века и древнеримский курсив",
+            },},{id: "projects-project-8",
+          title: 'project 8',
+          description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/8_project/";
-            },},{id: "projects-шахматный-дуатлон",
-          title: 'Шахматный дуатлон',
-          description: "Игра, соединяющая шахматы и го",
+            },},{id: "projects-project-9",
+          title: 'project 9',
+          description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/9_project/";
             },},{
