@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: Шрифты
+description: Гарнитуры, стилизованные под типографию XVIII века и древнеримский курсив
+img: assets/img/18cent.jpg
+importance: 3
+category: fun
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
