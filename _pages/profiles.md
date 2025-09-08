@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /data/
-title: datasets
-description: наборы данных
+title: data
+description: datasets, preprints, citable software
 nav: true
 nav_order: 7
 
