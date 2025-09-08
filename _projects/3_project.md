@@ -4,7 +4,7 @@ title: Национальный корпус русского языка
 description: Коллекция текстов на русском языке, оснащенная разметкой и инструментами поиска
 img: assets/img/ruscorp.png
 redirect: https://ruscorpora.ru
-importance: 3
+importance: 2
 category: science
 related_publications: true
 ---
