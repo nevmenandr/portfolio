@@ -456,6 +456,11 @@ ninja.data = [{
           description: "Большая векторная модель русской художественной прозы",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/10_project/";
+            },},{id: "projects-русскоязычные-биграммы-xx-века",
+          title: 'Русскоязычные биграммы XX века',
+          description: "Преобразованные в подходящий для исследования вид русскоязычные биграммы из коллекции Google Ngrams с 1918 до 2010 года",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/projects/11_project/";
             },},{id: "projects-параллельный-корпус-переводов-слова-о-полку-игореве",
           title: 'Параллельный корпус переводов «Слова о полку Игореве»',
           description: "Электронный инструмент для сопоставительного чтения переводов средневекового памятника",
