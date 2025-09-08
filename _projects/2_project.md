@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: basmorph
+description: Морфологический анализатор башкирского языка на Python
 img: assets/img/3.jpg
 importance: 2
-category: work
-giscus_comments: true
+category: science
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
