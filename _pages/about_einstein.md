@@ -1,6 +1,18 @@
 # Data
 
-<i class="ai ai-dataverse-square ai-3x"></i>
+<ul class="fa-ul" style="font-size: 2em;">
+  <li><span class="fa-li"><i class="ai ai-dataverse"></i></span>List icons can</li>
+  <li><span class="fa-li"><i class="ai ai-osf"></i></span>be used to</li>
+  <li><span class="fa-li"><i class="ai ai-osf-square"></i></span>replace bullets</li>
+  <li><span class="fa-li"><i class="ai ai-osf-square"></i></span>replace bullets</li>
+  <li><span class="fa-li"><i class="ai ai-osf-square"></i></span>replace bullets</li>
+  <li><span class="fa-li"><i class="ai ai-dataverse-square"></i></span>in lists</li>
+  <li><span class="fa-li"><i class="ai ai-dataverse-square"></i></span>in lists</li>
+  <li><span class="fa-li"><i class="ai ai-dataverse-square"></i></span>in lists</li>
+  <li><span class="fa-li"><i class="ai ai-dataverse-square"></i></span>in lists</li>
+  <li><span class="fa-li"><i class="ai ai-zenodo-square"></i></span>in lists</li>
+  <li><span class="fa-li"><i class="ai ai-zenodo"></i></span>in lists</li>
+</ul>
 
 # Preprints
 
