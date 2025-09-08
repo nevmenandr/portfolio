@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - nevmenandr
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - nevmenandr/word2vec-russian-novelsword2vec-russian-novels
+  - nevmenandr/delta_illustr
+  - nevmenandr/artlang-dani-el
+  - nevmenandr/avtandil-programming-language
+  - nevmenandr/18cent-font
