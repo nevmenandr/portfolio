@@ -21,7 +21,7 @@ profiles:
   - align: left
     image: chessw2v.png
     content: about_einstein1.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p>arxiv</p>
 
