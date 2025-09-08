@@ -2,7 +2,7 @@
 layout: page
 title: Векторные романы
 description: Компьютерно измененные тексты русской классики
-img: assets/img/1.jpg
+img: assets/img/vectorr.png
 importance: 1
 category: fun
 ---
