@@ -141,21 +141,21 @@
   ],
   "interests": [
     {
-      "name": "Лингвистика и литературоведение",
+      "name": "Linguistics and literary studies",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "16.21.65 Лексикография",
-        "16.21.47 Лексикология. Терминоведение",
-        "17.00.00 Литература. Литературоведение. Устное народное творчество",
-        "16.31.61 Приложение языкознания к другим наукам",
-        "16.31.21 Автоматическая обработка текста. Автоматический перевод. Автоматическое распознавание речи"
+        "Linguistics",
+        "Literary studies",
+        "Digital Humanities",
+        "Natural language processing"
       ]
     },
     {
-      "name": "Компьютерные науки",
+      "name": "Computer scienses",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "28.23.00 Искусственный интеллект"
+        "Artificial intelligence",
+        "Programming languages"
       ]
     }
   ],
