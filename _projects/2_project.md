@@ -2,7 +2,7 @@
 layout: page
 title: basmorph
 description: Морфологический анализатор башкирского языка на Python
-img: assets/img/3.jpg
+img:
 importance: 2
 category: science
 related_publications: true
