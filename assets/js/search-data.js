@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Meaningfull projects.",
+          description: "Web-services, podcasts, datasets, models, fonts, games.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/projects/";
@@ -471,14 +471,14 @@ ninja.data = [{
           description: "Междустатейные ссылки в виде графа",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-векторные-романы",
+          title: 'Векторные романы',
+          description: "Компьютерно измененные тексты русской классики",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-лига-айвы",
+          title: 'Лига Айвы',
+          description: "Подкаст об университете",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/6_project/";
             },},{id: "projects-project-7",
