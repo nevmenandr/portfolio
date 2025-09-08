@@ -461,9 +461,9 @@ ninja.data = [{
           description: "Морфологический анализатор башкирского языка на Python",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-национальный-корпус-русского-языка",
+          title: 'Национальный корпус русского языка',
+          description: "Коллекция текстов на русском языке, оснащенная разметкой и инструментами поиска",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/3_project/";
             },},{id: "projects-project-4",
