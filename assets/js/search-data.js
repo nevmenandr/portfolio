@@ -456,9 +456,9 @@ ninja.data = [{
           description: "Электронный инструмент для сопоставительного чтения переводов средневекового памятника",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-basmorph",
+          title: 'basmorph',
+          description: "Морфологический анализатор башкирского языка на Python",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
