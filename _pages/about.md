@@ -31,7 +31,7 @@ latest_posts:
 
 <i class="ai ai-google-scholar ai-2x ai-pull-left"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-<span style="color: #cf4a31;"><i class="ai ai-openedition ai-2x"></i></span>
+<span style="color: #cf4a31;"><i class="ai ai-openedition ai-2x"></i></span> <a href="https://schonenrede.hypotheses.org/">Научный блог</a>
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
