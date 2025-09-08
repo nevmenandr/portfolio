@@ -1,8 +1,8 @@
 # Preprints
 
-<ul class="fa-ul" style="font-size: 2em;">
-  <li><span class="fa-li"><i class="ai ai-arxiv-square"></i></span>List icons can</li>
-  <li><span class="fa-li"><i class="ai ai-arxiv-square"></i></span>be used to</li>
-  <li><span class="fa-li"><i class="ai ai-arxiv"></i></span>replace bullets</li>
-  <li><span class="fa-li"><i class="ai ai-arxiv"></i></span>in lists</li>
+<ul class="fa-ul" style="font-size: 2 em;">
+  <li><span class="fa-li"><i class="ai ai-arxiv"></i></span>You shall know a piece by the company it keeps. Chess plays as a data for word2vec models</li>
+  <li><span class="fa-li"><i class="ai ai-arxiv"></i></span>Does Burrows' Delta really confirm that Rowling and Galbraith are the same author?</li>
+  <li><span class="fa-li"><i class="ai ai-arxiv"></i></span>How does Burrows' Delta work on medieval Chinese poetic texts?</li>
+  <li><span class="fa-li"><i class="ai ai-arxiv"></i></span>Identifying the Style by a Qualified Reader on a Short Fragment of Generated Poetry</li>
 </ul>
