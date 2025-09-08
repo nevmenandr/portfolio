@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Векторные романы
+description: Компьютерно измененные тексты русской классики
 img: assets/img/1.jpg
-importance: 3
+importance: 1
 category: fun
 ---
 
