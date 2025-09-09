@@ -3,6 +3,7 @@ layout: page
 title: Русскоязычные биграммы XX века
 description: Преобразованные в подходящий для исследования вид русскоязычные биграммы из коллекции Google Ngrams с 1918 до 2010 года
 img:
+redirect: https://huggingface.co/datasets/nevmenandr/russian-20th-century-bigrams
 importance: 4
 category: science
 related_publications: true
