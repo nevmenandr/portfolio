@@ -3,6 +3,7 @@ layout: page
 title: Лига Айвы
 description: Подкаст об университете
 img: assets/img/ivy.jpg
+redirect: https://nevmenandr.github.io/universitates/
 importance: 1
 category: fun
 ---
