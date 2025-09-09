@@ -53,7 +53,7 @@ ninja.data = [{
           },
         },{id: "nav-data",
           title: "data",
-          description: "datasets, preprints, citable software",
+          description: "datasets, preprints, citable software, thesus review",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/data/";
