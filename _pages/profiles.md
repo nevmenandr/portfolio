@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /data/
 title: data
-description: datasets, preprints, citable software
+description: datasets, preprints, citable software, thesus review
 nav: true
 nav_order: 7
 
@@ -31,4 +31,6 @@ profiles:
     more_info: >
       <p>github.com</p>
       <p>zenodo</p>
+  - align: right
+    content: about_einstein3.md
 ---
