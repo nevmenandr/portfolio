@@ -3,6 +3,7 @@ layout: page
 title: Некраткие содежания
 description: Аудиоэссе о текстах и литературе
 img: assets/img/nonbrevia.jpg
+redirect: https://nevmenandr.github.io/nonbrevia/
 importance: 4
 category: fun
 ---
