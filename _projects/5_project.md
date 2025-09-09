@@ -3,6 +3,7 @@ layout: page
 title: Векторные романы
 description: Компьютерно измененные тексты русской классики
 img: assets/img/vectorr.png
+redirect: https://nevmenandr.github.io/novel2vec/
 importance: 1
 category: fun
 ---
