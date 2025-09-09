@@ -60,7 +60,7 @@ ninja.data = [{
           },
         },{id: "nav-journals",
           title: "journals",
-          description: "journals I started.",
+          description: "journals I started",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/journals/";
