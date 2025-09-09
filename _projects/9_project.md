@@ -3,6 +3,7 @@ layout: page
 title: Шахматный дуатлон
 description: Игра, соединяющая шахматы и го
 img: assets/img/chessgo.png
+redirect: https://nevmenandr.github.io/duathlon/
 importance: 4
 category: fun
 ---
