@@ -3,6 +3,7 @@ layout: page
 title: w2v-russian-fiction
 description: Большая векторная модель русской художественной прозы
 img:
+redirect: https://huggingface.co/nevmenandr/w2v-russian-fiction
 importance: 4
 category: science
 related_publications: true
