@@ -87,8 +87,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: texts # blog_name will be displayed in your blog page
-blog_description: academic an non-academic texts
-permalink: /blog/:year/:title/
+blog_description: academic and non-academic texts
+permalink: /html/:year/:title/
 lsi: false # produce an index for related posts
 
 # Pagination
