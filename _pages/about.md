@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>nevmenandr@gmail.com</p>
+    <p>Национальный исследовательский университет «Высшая школа экономики»</p>
+    <p>Москва</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,12 +29,12 @@ latest_posts:
 
 <a href="https://orcid.org/0000-0002-9099-0436"><span style="color: #b2c046;"><i class="ai ai-orcid ai-2x"></i></span> 0000-0002-9099-0436</a>
 
-<i class="ai ai-google-scholar ai-2x ai-pull-left"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<i class="ai ai-google-scholar ai-2x ai-pull-left"></i> Меня зовут Борис Орехов. Я занимаюсь научными исследованиями и иногда говорю про них в популярном жанре. Еще я пишу код, как полезный, так и развлекательный.
 
 <span style="color: #cf4a31;"><i class="ai ai-openedition ai-2x"></i></span> <a href="https://schonenrede.hypotheses.org/">Научный блог</a>
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Меня интересуют закономерности на больших выборках, полные и системные описания явлений по образцу грамматик языков. Для этого я применяю к текстовым коллекциям инструменты машинной обработки естественного языка. Знаю и люблю художественную литературу, не теряю из вида ее специфику. Понимаю, как развивается современный искусственный интеллект.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Обычно я востребован как специалист по Digital Humanities, но надеюсь, что во мне будут видеть и историка культуры, для чего я делаю [видеоэссе](https://www.youtube.com/@schonenrede/videos). Люблю университетскую идею и все, что связано с университетами, об этом делаю [подкаст](https://nevmenandr.github.io/universitates/).
 
 
