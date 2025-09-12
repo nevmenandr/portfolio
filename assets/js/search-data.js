@@ -65,18 +65,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/journals/";
           },
-        },{id: "post-полковникка-бер-кемдә-яҙмай",
-        
-          title: "Полковникка бер кемдә яҙмай",
-        
-        description: "Перевод на башкирский язык песни «Полковнику никто не пишет»",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/portfolio/html/2025/polkovnikka/";
-          
-        },
-      },{id: "post-a-post-with-image-galleries",
+        },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
         
@@ -415,6 +404,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/portfolio/html/2003/selo-goryukhino/";
+          
+        },
+      },{id: "post-полковникка-бер-кемдә-яҙмай",
+        
+          title: "Полковникка бер кемдә яҙмай",
+        
+        description: "Перевод на башкирский язык песни «Полковнику никто не пишет»",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2003/polkovnikka/";
           
         },
       },{id: "books-the-godfather",
