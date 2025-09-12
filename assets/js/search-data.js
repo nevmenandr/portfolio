@@ -395,6 +395,17 @@ ninja.data = [{
             window.location.href = "/portfolio/html/2015/formatting-and-links/";
           
         },
+      },{id: "post-йосип-пупачич-море",
+        
+          title: "Йосип Пупачич — Море",
+        
+        description: "перевод с хорватского",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2007/more/";
+          
+        },
       },{id: "post-село-горюхино-и-его-обитатели",
         
           title: "Село Горюхино и его обитатели",
