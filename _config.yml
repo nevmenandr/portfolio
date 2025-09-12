@@ -257,7 +257,7 @@ jekyll-archives:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
 display_tags: ["литература", "критика", "кино", "перевод", "искусство", "филология"] # these tags will be displayed on the front page of your blog
-display_categories: ["литературная-критика", "художественная-критика"] # these categories will be displayed on the front page of your blog
+display_categories: ["литературная-критика", "художественная-критика", "наука"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
