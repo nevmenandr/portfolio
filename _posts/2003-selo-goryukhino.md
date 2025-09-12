@@ -4,7 +4,7 @@ title: Село Горюхино и его обитатели
 date: 2003
 description: о прозе Юрия Горюхина
 tags: литература, критика
-categories: литературная критика
+categories: литературная-критика
 citation: true
 ---
 
