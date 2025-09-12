@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://nevmenandr.github.io/portfolio/feed.xml" rel="self" type="application/atom+xml"/><link href="https://nevmenandr.github.io/portfolio/" rel="alternate" type="text/html" hreflang="en"/><updated>2025-09-12T21:12:25+00:00</updated><id>https://nevmenandr.github.io/portfolio/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">a post with image galleries</title><link href="https://nevmenandr.github.io/portfolio/html/2024/photo-gallery/" rel="alternate" type="text/html" title="a post with image galleries"/><published>2024-12-04T01:59:00+00:00</published><updated>2024-12-04T01:59:00+00:00</updated><id>https://nevmenandr.github.io/portfolio/html/2024/photo-gallery</id><content type="html" xml:base="https://nevmenandr.github.io/portfolio/html/2024/photo-gallery/"><![CDATA[<p>The images in this post are all zoomable, arranged into different mini-galleries using different libraries.</p> <h2 id="lightbox2"><a href="https://lokeshdhakar.com/projects/lightbox2/">Lightbox2</a></h2> <p><a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg"/></a> <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg"/></a> <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg"/></a></p> <hr/> <h2 id="photoswipe"><a href="https://photoswipe.com/">PhotoSwipe</a></h2> <div class="pswp-gallery pswp-gallery--single-column" id="gallery--getting-started"> <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" data-pswp-width="1669" data-pswp-height="2500" target="_blank"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt=""/> </a> <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/7/img-2500.jpg" data-pswp-width="1875" data-pswp-height="2500" data-cropped="true" target="_blank"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/7/img-200.jpg" alt=""/> </a> <a href="https://unsplash.com" data-pswp-src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg" data-pswp-width="2500" data-pswp-height="1666" target="_blank"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" alt=""/> </a> <div> <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-2500.jpg" data-pswp-width="2500" data-pswp-height="1667" target="_blank"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-200.jpg" alt=""/> </a> </div> </div> <hr/> <h2 id="spotlight-js"><a href="https://nextapps-de.github.io/spotlight/">Spotlight JS</a></h2> <div class="spotlight-group"> <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg"/> </a> <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg"/> </a> <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg"/> </a> </div> <div class="spotlight-group"> <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/4/img-2500.jpg"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/4/img-200.jpg"/> </a> <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/5/img-2500.jpg"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/5/img-200.jpg"/> </a> <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-2500.jpg"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-200.jpg"/> </a> </div> <hr/> <h2 id="venobox"><a href="https://veno.es/venobox/">Venobox</a></h2> <p><a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg"/></a> <a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg"/></a> <a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg"/></a></p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="images"/><summary type="html"><![CDATA[this is what included image galleries could look like]]></summary></entry><entry><title type="html">a post with tabs</title><link href="https://nevmenandr.github.io/portfolio/html/2024/tabs/" rel="alternate" type="text/html" title="a post with tabs"/><published>2024-05-01T00:32:13+00:00</published><updated>2024-05-01T00:32:13+00:00</updated><id>https://nevmenandr.github.io/portfolio/html/2024/tabs</id><content type="html" xml:base="https://nevmenandr.github.io/portfolio/html/2024/tabs/"><![CDATA[<p>This is how a post with <a href="https://github.com/Ovski4/jekyll-tabs">tabs</a> looks like. Note that the tabs could be used for different purposes, not only for code.</p> <h2 id="first-tabs">First tabs</h2> <p>To add tabs, use the following syntax:</p> <div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">{%</span><span class="w"> </span><span class="nt">tabs</span><span class="w"> </span><span class="nv">group-name</span><span class="w"> </span><span class="cp">%}</span>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://nevmenandr.github.io/portfolio/feed.xml" rel="self" type="application/atom+xml"/><link href="https://nevmenandr.github.io/portfolio/" rel="alternate" type="text/html" hreflang="en"/><updated>2025-09-12T21:22:32+00:00</updated><id>https://nevmenandr.github.io/portfolio/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">Село Горюхино и его обитатели</title><link href="https://nevmenandr.github.io/portfolio/html/2025/selo-goryukhino/" rel="alternate" type="text/html" title="Село Горюхино и его обитатели"/><published>2025-03-26T14:24:00+00:00</published><updated>2025-03-26T14:24:00+00:00</updated><id>https://nevmenandr.github.io/portfolio/html/2025/selo-goryukhino</id><content type="html" xml:base="https://nevmenandr.github.io/portfolio/html/2025/selo-goryukhino/"><![CDATA[<p><em>Опубликовано в газете «Истоки» (2003, №31 (331)) стр. 11</em></p> <p>Двадцать восьмой номер «Истоков» вышел под знаком талантливого писателя Ю. Горюхина. Здесь опубликована его «тронная речь» как финалиста литературной премии им. И. П. Белкина и очень любопытный рассказ «Ломтик лимона в остывшем сакэ», украсивший собой полторы полосы издания.</p> <p>Присоединяясь к мнению редакции о том, что хорошего автора должно быть много (а еще лучше — много хороших авторов), хотелось бы изложить несколько соображений относительно напечатанного повествования.</p> <p>Название и эпиграф (хокку пера, а вернее — кисточки для письма Басё), уже своим статусом призванные формировать ожидания от предвкушаемого текста, — нарочито «японские». Здесь мы встречаем «сакэ» и «Басё» — два ключевых слова, как нельзя лучше отпирающие в сознании читателя дверь в Страну восходящего солнца. Такая настойчивость автора, аж дважды указавшего на тему, которой еще только предстоит коснуться, в достаточной мере знаковая. Как становится ясно из текста рассказа, Ю. Горюхин двумя-тремя мазками создает антураж какой-нибудь этнокультурной среды (а в рассказе перед нами проплывают степной аул, Средняя Азия, китайский торговый караван; особенное внимание уделено Японии), при этом пользуясь арсеналом хорошо узнаваемых реалий — штампов. Это те самые «ключевые слова», позволяющие создать в воображении читателя некий абрис атмосферы, в которой происходит действие и не пускаться в развернутые описания. Попадая к китайцам, вы непременно встретите Ли Бо и какого-нибудь «Бесстрашного дракона», если это Япония, то будьте уверены, что вас ожидают самураи и Басё. Эти имена известны всем и неизменно тянут за собой необходимую цепь ассоциаций. Большего и не нужно.</p> <p>С одной стороны, такой прием позволяет экономно распоряжаться художественными средствами, тем более что рассказ ведется от лица девушки, достаточно естественной (в руссоистском смысле), чтобы позволить себе не быть излишне культурно подкованной. Для такого героя-рассказчика будут не очень органичны по-бунински детальные лирические описания обстановки. К тому же ей порой просто некогда оглядеться: судьба, как вихрь, метет ее из края в край, из града в град: «Но не успела я признаться батыру Бикею в своих чувствах (…), как меня украли киргизы». По ходу чтения даже складывается впечатление, что героиня не более чем повод для вывода на сцену истинных героев повествования: культуры и быта кочевых народов, культуры и литературы Китая, Японии, России. Взаимоотношения мировых культур, данные глазами простой казахской девушки, и составляют главный и наиболее интересный объект изображения.</p> <p>С другой стороны, скупые сведения о пространстве, в котором происходит действие (напомним, что это скорее «культурное» пространство, обозначенное указателями-штампами, чем «обычное» пространство художественных текстов), дают возможность для свободного обращения со временем. Практически до самого конца читатель абсолютно дезориентирован относительно временной привязки повествования. Встающая перед нами в начале рассказа жизнь степного аула является образцом патриархального безвременья. Китай, куда затем попадает героиня, тоже оставался неизменным на протяжении многих веков. Представление о том, когда же происходит действие рассказа, как будто должно дать имя Ли Бо, которого сопровождает девушка на пути в (не менее консервативную) Японию. Это имя принадлежит китайскому поэту VIII века. Но спустя некоторое время мы узнаем, что любимым автором Мауляны стал Мацуо Басё — великий японский поэт XVII в. Далее появляется самурай Юкио (Мисима? XX в.), и наконец Иван Александрович (Гончаров) увозит из Японии девушку на фрегате «Паллада», а Владимир Иванович (Даль) возвращает ее в родной аул. На первый взгляд может показаться, что мы являемся свидетелями событий девятнадцатого века. Но литературная игра, которую ведет Ю. Горюхин со своими читателями, сложнее. Известно, что Даль бывал в тех местах в пору своей службы в Оренбургском крае (1833–1841 гг.), а Гончаров отправился в плавание только в 1852 г., т.е. тогда, когда повесть Даля «Бикей и Мауляна» (которую имеет в виду Горюхин) была давным-давно напечатана.</p> <p>Такое отсутствие четко обозначенного и ясного положения на временной оси, как нам кажется, становится средством создания не совсем обычного образа культуры. Культурная среда, будь то китайская, русская или японская, дана у Горюхина сразу на протяжении всей своей истории, не ограниченная узкими рамками какой-то временной приписки. Она как бы аккумулирует все этапы своего существования, сжимаясь до одного-единственного образа-знака, и происходит это, напомним, в формате небольшого рассказа. Поэтому Ли Бо как полноправный представитель древнейшей китайской традиции имеет право, «положив ладонь на темя» Мауляны, назвать японцев «очередными варварами». Ведь у островного народа письменность появилась на несколько тысячелетий позже!</p> <p>На фоне этих монументальных персонажей-символов несколько беспомощно выглядит фигура «главной» героини — потерявшейся во времени и пространстве девушки Мауляны. Она предстает безвольной марионеткой, по воле рока оказавшейся в беспощадном водовороте истории. К этому образу именно в силу ее до известной степени «кукольности» не испытываешь особого сожаления. Мелодраматическая линия ее взаимоотношений с батыром Бикеем не вызывает сочувствия и может быть воспринята только в пародийном ключе: это тоже своего рода обыгрывание традиционной литературной модели.</p> <p>Исторически невозможные события, культурные штампы, «персонажи-пустышки» (или наоборот — символы) и схематичные отношения между ними (например, традиционный для японской литературы сюжет о самоубийстве дзёро и самурая), которыми наполняет Ю. Горюхин свой рассказ, все дальше уводят нас по тропе художественной условности, разрушая столь необходимую для адекватного восприятия литературного вымысла иллюзию достоверности происходящего. Мир рассказа в высшей степени условен: автора даже не заботит, скажем, каким образом казахская девушка понимает китайскую или японскую речь. Во всем этом можно усмотреть легкую иронию по поводу поверхностного восприятия такого сложного организма, как чужая (в особенности восточная) культура, которым порой (в особенности сейчас) грешит современная молодежь. В погоне за модой доморощенные «йоги» и «буддисты» обходятся украшениями, атрибутикой (равновеликой горюхинским штампам, воссоздающим нарочито поверхностную псевдовосточную реальность), и за этой внешней стороной на второй план отходит сущностная философская основа, о которой почему-то предпочитают не задумываться. А ведь сами монахи говорят: «Буддизм — это доброе сердце! Если есть доброе сердце, ты — буддист. Если нет, знай ты хоть все сутры — ты не имеешь к этому отношения». Так и тот образ восточного мира, который сконструировал Ю. Горюхин в своем рассказе с помощью набора известных (если не сказать «популярных» и даже «модных») реалий, довольно далек от того, что должен возникнуть при более глубоком постижении культуры. Подобного же рода условными действующими лицами различной национальной принадлежности автор населил и другое свое произведение — «Улыбка мулатки», ознаменовавшее № 22 «Истоков».</p> <p>Итак, в «селе Горюхино» обитает теперь литературная условность с ее героями, беспрекословно подчиняющимися прихотливой воле автора, и декорациями, сколоченными из культурных знаков. Наверное, не следует огульно приписывать эту тенденцию влиянию постмодернизма. Просто дело в том, что такой материал более податлив в руках писателя, и теперь уже никто из персонажей не сможет незаметно «выскочить замуж», как это удалось когда-то Татьяне Лариной.</p> <p>В заключение хотелось бы поблагодарить Ю. Горюхина за его (как особенно хорошо видно из «речи финалиста») почти по-родственному бережное отношение к русской литературе, которого не всегда можно ожидать и от студентов-филологов.</p>]]></content><author><name></name></author><category term="литературная-критика"/><category term="литература"/><category term="критика"/><summary type="html"><![CDATA[о прозе Юрия Горюхина]]></summary></entry><entry><title type="html">a post with image galleries</title><link href="https://nevmenandr.github.io/portfolio/html/2024/photo-gallery/" rel="alternate" type="text/html" title="a post with image galleries"/><published>2024-12-04T01:59:00+00:00</published><updated>2024-12-04T01:59:00+00:00</updated><id>https://nevmenandr.github.io/portfolio/html/2024/photo-gallery</id><content type="html" xml:base="https://nevmenandr.github.io/portfolio/html/2024/photo-gallery/"><![CDATA[<p>The images in this post are all zoomable, arranged into different mini-galleries using different libraries.</p> <h2 id="lightbox2"><a href="https://lokeshdhakar.com/projects/lightbox2/">Lightbox2</a></h2> <p><a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg"/></a> <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg"/></a> <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg"/></a></p> <hr/> <h2 id="photoswipe"><a href="https://photoswipe.com/">PhotoSwipe</a></h2> <div class="pswp-gallery pswp-gallery--single-column" id="gallery--getting-started"> <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" data-pswp-width="1669" data-pswp-height="2500" target="_blank"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt=""/> </a> <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/7/img-2500.jpg" data-pswp-width="1875" data-pswp-height="2500" data-cropped="true" target="_blank"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/7/img-200.jpg" alt=""/> </a> <a href="https://unsplash.com" data-pswp-src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg" data-pswp-width="2500" data-pswp-height="1666" target="_blank"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" alt=""/> </a> <div> <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-2500.jpg" data-pswp-width="2500" data-pswp-height="1667" target="_blank"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-200.jpg" alt=""/> </a> </div> </div> <hr/> <h2 id="spotlight-js"><a href="https://nextapps-de.github.io/spotlight/">Spotlight JS</a></h2> <div class="spotlight-group"> <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg"/> </a> <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg"/> </a> <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg"/> </a> </div> <div class="spotlight-group"> <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/4/img-2500.jpg"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/4/img-200.jpg"/> </a> <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/5/img-2500.jpg"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/5/img-200.jpg"/> </a> <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-2500.jpg"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-200.jpg"/> </a> </div> <hr/> <h2 id="venobox"><a href="https://veno.es/venobox/">Venobox</a></h2> <p><a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg"/></a> <a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg"/></a> <a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg"/></a></p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="images"/><summary type="html"><![CDATA[this is what included image galleries could look like]]></summary></entry><entry><title type="html">a post with tabs</title><link href="https://nevmenandr.github.io/portfolio/html/2024/tabs/" rel="alternate" type="text/html" title="a post with tabs"/><published>2024-05-01T00:32:13+00:00</published><updated>2024-05-01T00:32:13+00:00</updated><id>https://nevmenandr.github.io/portfolio/html/2024/tabs</id><content type="html" xml:base="https://nevmenandr.github.io/portfolio/html/2024/tabs/"><![CDATA[<p>This is how a post with <a href="https://github.com/Ovski4/jekyll-tabs">tabs</a> looks like. Note that the tabs could be used for different purposes, not only for code.</p> <h2 id="first-tabs">First tabs</h2> <p>To add tabs, use the following syntax:</p> <div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">{%</span><span class="w"> </span><span class="nt">tabs</span><span class="w"> </span><span class="nv">group-name</span><span class="w"> </span><span class="cp">%}</span>
 
 <span class="cp">{%</span><span class="w"> </span><span class="nt">tab</span><span class="w"> </span><span class="nv">group-name</span><span class="w"> </span><span class="nv">tab-name-1</span><span class="w"> </span><span class="cp">%}</span>
 
@@ -13,16 +13,16 @@ Content 2
 <span class="cp">{%</span><span class="w"> </span><span class="nt">endtab</span><span class="w"> </span><span class="cp">%}</span>
 
 <span class="cp">{%</span><span class="w"> </span><span class="nt">endtabs</span><span class="w"> </span><span class="cp">%}</span>
-</code></pre></div></div> <p>With this you can generate visualizations like:</p> <ul id="log" class="tab" data-tab="96819671-a9b4-4df5-bebe-da15aafc8028" data-name="log"> <li class="active" id="log-php"> <a href="#">php </a> </li> <li id="log-js"> <a href="#">js </a> </li> <li id="log-ruby"> <a href="#">ruby </a> </li> </ul> <ul class="tab-content" id="96819671-a9b4-4df5-bebe-da15aafc8028" data-name="log"> <li class="active"> <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">var_dump</span><span class="p">(</span><span class="s1">'hello'</span><span class="p">);</span>
+</code></pre></div></div> <p>With this you can generate visualizations like:</p> <ul id="log" class="tab" data-tab="db3ff2fe-0417-4735-945d-378d951d50aa" data-name="log"> <li class="active" id="log-php"> <a href="#">php </a> </li> <li id="log-js"> <a href="#">js </a> </li> <li id="log-ruby"> <a href="#">ruby </a> </li> </ul> <ul class="tab-content" id="db3ff2fe-0417-4735-945d-378d951d50aa" data-name="log"> <li class="active"> <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">var_dump</span><span class="p">(</span><span class="s1">'hello'</span><span class="p">);</span>
 </code></pre></div></div> </li> <li> <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">console</span><span class="p">.</span><span class="nf">log</span><span class="p">(</span><span class="dl">"</span><span class="s2">hello</span><span class="dl">"</span><span class="p">);</span>
 </code></pre></div></div> </li> <li> <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">pputs</span> <span class="dl">'</span><span class="s1">hello</span><span class="dl">'</span>
-</code></pre></div></div> </li> </ul> <h2 id="another-example">Another example</h2> <ul id="data-struct" class="tab" data-tab="d5927541-1943-44fa-8218-1bcd9380d2de" data-name="data-struct"> <li class="active" id="data-struct-yaml"> <a href="#">yaml </a> </li> <li id="data-struct-json"> <a href="#">json </a> </li> </ul> <ul class="tab-content" id="d5927541-1943-44fa-8218-1bcd9380d2de" data-name="data-struct"> <li class="active"> <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
+</code></pre></div></div> </li> </ul> <h2 id="another-example">Another example</h2> <ul id="data-struct" class="tab" data-tab="d48b1c5d-9fd4-4dcf-94b0-612ca2c42057" data-name="data-struct"> <li class="active" id="data-struct-yaml"> <a href="#">yaml </a> </li> <li id="data-struct-json"> <a href="#">json </a> </li> </ul> <ul class="tab-content" id="d48b1c5d-9fd4-4dcf-94b0-612ca2c42057" data-name="data-struct"> <li class="active"> <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
   <span class="pi">-</span> <span class="s2">"</span><span class="s">whatsup"</span>
   <span class="pi">-</span> <span class="s2">"</span><span class="s">hi"</span>
 </code></pre></div></div> </li> <li> <div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
   </span><span class="nl">"hello"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">"whatsup"</span><span class="p">,</span><span class="w"> </span><span class="s2">"hi"</span><span class="p">]</span><span class="w">
 </span><span class="p">}</span><span class="w">
-</span></code></pre></div></div> </li> </ul> <h2 id="tabs-for-something-else">Tabs for something else</h2> <ul id="something-else" class="tab" data-tab="eaaf0a9f-a566-4af8-8bb2-298f6e9e9905" data-name="something-else"> <li class="active" id="something-else-text"> <a href="#">text </a> </li> <li id="something-else-quote"> <a href="#">quote </a> </li> <li id="something-else-list"> <a href="#">list </a> </li> </ul> <ul class="tab-content" id="eaaf0a9f-a566-4af8-8bb2-298f6e9e9905" data-name="something-else"> <li class="active"> <p>Regular text</p> </li> <li> <blockquote> <p>A quote</p> </blockquote> </li> <li> <p>Hipster list</p> <ul> <li>brunch</li> <li>fixie</li> <li>raybans</li> <li>messenger bag</li> </ul> </li> </ul>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="code"/><summary type="html"><![CDATA[this is what included tabs in a post could look like]]></summary></entry><entry><title type="html">a post with typograms</title><link href="https://nevmenandr.github.io/portfolio/html/2024/typograms/" rel="alternate" type="text/html" title="a post with typograms"/><published>2024-04-29T23:36:10+00:00</published><updated>2024-04-29T23:36:10+00:00</updated><id>https://nevmenandr.github.io/portfolio/html/2024/typograms</id><content type="html" xml:base="https://nevmenandr.github.io/portfolio/html/2024/typograms/"><![CDATA[<p>This is an example post with some <a href="https://github.com/google/typograms/">typograms</a> code.</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">typograms
+</span></code></pre></div></div> </li> </ul> <h2 id="tabs-for-something-else">Tabs for something else</h2> <ul id="something-else" class="tab" data-tab="1b8e4fea-3555-4538-9ba5-ebeaf14838fa" data-name="something-else"> <li class="active" id="something-else-text"> <a href="#">text </a> </li> <li id="something-else-quote"> <a href="#">quote </a> </li> <li id="something-else-list"> <a href="#">list </a> </li> </ul> <ul class="tab-content" id="1b8e4fea-3555-4538-9ba5-ebeaf14838fa" data-name="something-else"> <li class="active"> <p>Regular text</p> </li> <li> <blockquote> <p>A quote</p> </blockquote> </li> <li> <p>Hipster list</p> <ul> <li>brunch</li> <li>fixie</li> <li>raybans</li> <li>messenger bag</li> </ul> </li> </ul>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="code"/><summary type="html"><![CDATA[this is what included tabs in a post could look like]]></summary></entry><entry><title type="html">a post with typograms</title><link href="https://nevmenandr.github.io/portfolio/html/2024/typograms/" rel="alternate" type="text/html" title="a post with typograms"/><published>2024-04-29T23:36:10+00:00</published><updated>2024-04-29T23:36:10+00:00</updated><id>https://nevmenandr.github.io/portfolio/html/2024/typograms</id><content type="html" xml:base="https://nevmenandr.github.io/portfolio/html/2024/typograms/"><![CDATA[<p>This is an example post with some <a href="https://github.com/google/typograms/">typograms</a> code.</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">typograms
 </span><span class="sb">+----+
 |    |---&gt; My first diagram!
 +----+</span>
@@ -774,162 +774,4 @@ index 3bb754ac..a34839c0 100644
     }
   ]
 }
-</code></pre> <p>Note that this library offer support for both light and dark themes. You can switch between them using the theme switcher in the top right corner of the page.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="charts"/><summary type="html"><![CDATA[this is what included echarts code could look like]]></summary></entry><entry><title type="html">a post with chart.js</title><link href="https://nevmenandr.github.io/portfolio/html/2024/chartjs/" rel="alternate" type="text/html" title="a post with chart.js"/><published>2024-01-26T01:04:00+00:00</published><updated>2024-01-26T01:04:00+00:00</updated><id>https://nevmenandr.github.io/portfolio/html/2024/chartjs</id><content type="html" xml:base="https://nevmenandr.github.io/portfolio/html/2024/chartjs/"><![CDATA[<p>This is an example post with some <a href="https://www.chartjs.org/">chart.js</a> code.</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">chartjs
-</span><span class="sb">{
-  "type": "line",
-  "data": {
-    "labels": [
-      "January",
-      "February",
-      "March",
-      "April",
-      "May",
-      "June",
-      "July"
-    ],
-    "datasets": [
-      {
-        "label": "# of bugs",
-        "fill": false,
-        "lineTension": 0.1,
-        "backgroundColor": "rgba(75,192,192,0.4)",
-        "borderColor": "rgba(75,192,192,1)",
-        "borderCapStyle": "butt",
-        "borderDash": [],
-        "borderDashOffset": 0,
-        "borderJoinStyle": "miter",
-        "pointBorderColor": "rgba(75,192,192,1)",
-        "pointBackgroundColor": "#fff",
-        "pointBorderWidth": 1,
-        "pointHoverRadius": 5,
-        "pointHoverBackgroundColor": "rgba(75,192,192,1)",
-        "pointHoverBorderColor": "rgba(220,220,220,1)",
-        "pointHoverBorderWidth": 2,
-        "pointRadius": 1,
-        "pointHitRadius": 10,
-        "data": [
-          65,
-          59,
-          80,
-          81,
-          56,
-          55,
-          40
-        ],
-        "spanGaps": false
-      }
-    ]
-  },
-  "options": {}
-}</span>
-<span class="p">```</span>
-</code></pre></div></div> <p>This is how it looks like:</p> <pre><code class="language-chartjs">{
-  "type": "line",
-  "data": {
-    "labels": [
-      "January",
-      "February",
-      "March",
-      "April",
-      "May",
-      "June",
-      "July"
-    ],
-    "datasets": [
-      {
-        "label": "# of bugs",
-        "fill": false,
-        "lineTension": 0.1,
-        "backgroundColor": "rgba(75,192,192,0.4)",
-        "borderColor": "rgba(75,192,192,1)",
-        "borderCapStyle": "butt",
-        "borderDash": [],
-        "borderDashOffset": 0,
-        "borderJoinStyle": "miter",
-        "pointBorderColor": "rgba(75,192,192,1)",
-        "pointBackgroundColor": "#fff",
-        "pointBorderWidth": 1,
-        "pointHoverRadius": 5,
-        "pointHoverBackgroundColor": "rgba(75,192,192,1)",
-        "pointHoverBorderColor": "rgba(220,220,220,1)",
-        "pointHoverBorderWidth": 2,
-        "pointRadius": 1,
-        "pointHitRadius": 10,
-        "data": [
-          65,
-          59,
-          80,
-          81,
-          56,
-          55,
-          40
-        ],
-        "spanGaps": false
-      }
-    ]
-  },
-  "options": {}
-}
-</code></pre> <p>Also another example chart.</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">chartjs
-</span><span class="sb">{
-  "type": "doughnut",
-  "data": {
-    "labels": [
-      "Red",
-      "Blue",
-      "Yellow"
-    ],
-    "datasets": [
-      {
-        "data": [
-          300,
-          50,
-          100
-        ],
-        "backgroundColor": [
-          "#FF6384",
-          "#36A2EB",
-          "#FFCE56"
-        ],
-        "hoverBackgroundColor": [
-          "#FF6384",
-          "#36A2EB",
-          "#FFCE56"
-        ]
-      }
-    ]
-  },
-  "options": {}
-}</span>
-<span class="p">```</span>
-</code></pre></div></div> <p>Which generates:</p> <pre><code class="language-chartjs">{
-  "type": "doughnut",
-  "data": {
-    "labels": [
-      "Red",
-      "Blue",
-      "Yellow"
-    ],
-    "datasets": [
-      {
-        "data": [
-          300,
-          50,
-          100
-        ],
-        "backgroundColor": [
-          "#FF6384",
-          "#36A2EB",
-          "#FFCE56"
-        ],
-        "hoverBackgroundColor": [
-          "#FF6384",
-          "#36A2EB",
-          "#FFCE56"
-        ]
-      }
-    ]
-  },
-  "options": {}
-}
-</code></pre>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="charts"/><summary type="html"><![CDATA[this is what included chart.js code could look like]]></summary></entry></feed>
+</code></pre> <p>Note that this library offer support for both light and dark themes. You can switch between them using the theme switcher in the top right corner of the page.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="charts"/><summary type="html"><![CDATA[this is what included echarts code could look like]]></summary></entry></feed>

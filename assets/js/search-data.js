@@ -65,7 +65,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/journals/";
           },
-        },{id: "post-a-post-with-image-galleries",
+        },{id: "post-село-горюхино-и-его-обитатели",
+        
+          title: "Село Горюхино и его обитатели",
+        
+        description: "о прозе Юрия Горюхина",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2025/selo-goryukhino/";
+          
+        },
+      },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
         
