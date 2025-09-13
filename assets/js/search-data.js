@@ -406,6 +406,17 @@ ninja.data = [{
             window.location.href = "/portfolio/html/2015/formatting-and-links/";
           
         },
+      },{id: "post-корпус-переводов-как-инструмент-лингвостиховедческого-исследования",
+        
+          title: "Корпус переводов как инструмент лингвостиховедческого исследования",
+        
+        description: "Гаспаровские чтения",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2012/corpus/";
+          
+        },
       },{id: "post-йосип-пупачич-море",
         
           title: "Йосип Пупачич — Море",
