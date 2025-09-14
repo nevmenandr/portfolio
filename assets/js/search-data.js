@@ -76,17 +76,6 @@ ninja.data = [{
             window.location.href = "/portfolio/html/2025/2012-04-19-mlg/";
           
         },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/portfolio/html/2025/2012-03-21-eni/";
-          
-        },
       },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
@@ -415,6 +404,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/portfolio/html/2012/corpus/";
+          
+        },
+      },{id: "post-доклад-об-электронном-научном-издании-фольклорный-архив-башкирского-государственного-университета",
+        
+          title: "Доклад об Электронном научном издании Фольклорный архив Башкирского государственного университета",
+        
+        description: "Фольклор и постфольклор. Структура, типология, семиотика",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2012/eni/";
           
         },
       },{id: "post-йосип-пупачич-море",
