@@ -65,18 +65,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/journals/";
           },
-        },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/portfolio/html/2025/2012-04-19-mlg/";
-          
-        },
-      },{id: "post-a-post-with-image-galleries",
+        },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
         
@@ -404,6 +393,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/portfolio/html/2012/corpus/";
+          
+        },
+      },{id: "post-точность-перевода-методика-гаспарова-и-психолингвистический-эксперимент",
+        
+          title: "Точность перевода. Методика Гаспарова и психолингвистический эксперимент",
+        
+        description: "Гаспаровские чтения",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2012/mlg/";
           
         },
       },{id: "post-доклад-об-электронном-научном-издании-фольклорный-архив-башкирского-государственного-университета",
