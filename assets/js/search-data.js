@@ -460,8 +460,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/portfolio/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-выступление-на-радио-маяк-научно-технический-прогресс-как-научно-технический-прогресс-повлиял-на-литературу-microphone",
+          title: 'Выступление на радио «Маяк»: Научно-технический прогресс. Как научно-технический прогресс повлиял на литературу :microphone:...',
           description: "",
           section: "News",},{id: "news-выступление-на-семинаре-аффордансы-добра-и-зла-дальнее-чтение",
           title: 'Выступление на семинаре аффордансы добра и зла: дальнее чтение',
