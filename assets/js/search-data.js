@@ -455,11 +455,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/portfolio/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/portfolio/news/announcement_2/";
             },},{id: "news-выступление-на-9-м-колмогоровском-семинаре-по-компьютерной-лингвистике-и-наукам-о-языке",
           title: 'Выступление на 9-м Колмогоровском семинаре по компьютерной лингвистике и наукам о языке',
           description: "",
@@ -469,7 +464,12 @@ ninja.data = [{
           section: "News",},{id: "news-выступление-на-семинаре-аффордансы-добра-и-зла-дальнее-чтение",
           title: 'Выступление на семинаре аффордансы добра и зла: дальнее чтение',
           description: "",
-          section: "News",},{id: "projects-w2v-russian-fiction",
+          section: "News",},{id: "news-выступление-на-дискуссии-будущее-графического-дизайна",
+          title: 'Выступление на дискуссии Будущее графического дизайна',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/portfolio/news/announcement_20250921/";
+            },},{id: "projects-w2v-russian-fiction",
           title: 'w2v-russian-fiction',
           description: "Большая векторная модель русской художественной прозы",
           section: "Projects",handler: () => {
