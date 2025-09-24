@@ -21,4 +21,4 @@ nav_order: 6
 
 ------
 
-<i class="fa fa-graduation-cap" aria-hidden="true"></i> <a href="https://nevmenandr.github.io/dh-hse2024/">Семинар наставника</a> (НИУ ВШЭ, 2025)
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> <a href="https://nevmenandr.github.io/dh-hse2024/">Семинар наставника</a> (НИУ ВШЭ, 2024)
