@@ -3,6 +3,7 @@ layout: page
 title: Автандил
 description: Язык программирования для нужд Digital Humanities
 img: assets/img/A.png
+redirect: https://github.com/nevmenandr/avtandil-programming-language
 importance: 5
 category: fun
 ---

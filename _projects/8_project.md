@@ -3,6 +3,7 @@ layout: page
 title: Шрифты
 description: Гарнитуры, стилизованные под типографию XVIII века и древнеримский курсив
 img: assets/img/18cent.png
+redirect: https://nevmenandr.github.io/vindolanda/
 importance: 3
 category: fun
 related_publications: true

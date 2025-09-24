@@ -3,6 +3,7 @@ layout: page
 title: Римский календарь
 description: Перевод дат современного календаря в даты древнеримского календаря
 img: assets/img/III.png
+redirect: https://vk.com/calendariumromanum
 importance: 5
 category: fun
 ---

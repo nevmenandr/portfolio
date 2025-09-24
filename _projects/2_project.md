@@ -3,6 +3,7 @@ layout: page
 title: basmorph
 description: Морфологический анализатор башкирского языка на Python
 img:
+redirect: http://nevmenandr.net/cgi-bin/bashmorphweb.py
 importance: 3
 category: science
 related_publications: true

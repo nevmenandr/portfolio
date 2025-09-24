@@ -3,6 +3,7 @@ layout: page
 title: Параллельный корпус переводов «Слова о полку Игореве»
 description: Электронный инструмент для сопоставительного чтения переводов средневекового памятника
 img: assets/img/spi1.png
+redirect: http://nevmenandr.net/slovo/
 importance: 1
 category: science
 related_publications: true

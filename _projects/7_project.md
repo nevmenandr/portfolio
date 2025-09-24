@@ -3,6 +3,7 @@ layout: page
 title: Демонтаж красноречия
 description: Просветительский проект
 img: assets/img/schonen.png
+redirect: https://t.me/schonenrede
 importance: 2
 category: fun
 related_publications: true

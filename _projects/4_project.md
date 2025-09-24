@@ -3,6 +3,7 @@ layout: page
 title: Сеть персоналий в Словаре русских писателей XVIII века
 description: Междустатейные ссылки в виде графа
 img: assets/img/network18.png
+redirect: https://nevmenandr.github.io/rus-dict18-persons/
 importance: 2
 category: science
 ---
