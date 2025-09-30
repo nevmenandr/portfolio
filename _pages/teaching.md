@@ -15,7 +15,7 @@ nav_order: 6
 
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> Цифровая и социальная гуманитаристика (Московский институт психоанализа, 2025)
 
-<i class="fa fa-graduation-cap" aria-hidden="true"></i> Семинар наставника (НИУ ВШЭ, 2025)
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> [Семинар наставника](https://nevmenandr.github.io/portfolio/teaching/hse2025) (НИУ ВШЭ, 2025)
 
 ## 2024
 
