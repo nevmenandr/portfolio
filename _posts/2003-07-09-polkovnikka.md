@@ -44,7 +44,7 @@ authors:
 Полковникка бер кемдә яҙмай<br/>
 Полковникты бер кемдә көтмәй.
 
-<d-code block language="bibtex">
+<d-code block language="latex">
 @article{orehov2003PolkovnikkaBer,
   entrysubtype = {newspaper},
   title = {Полковникка бер кемдә яҙмай},

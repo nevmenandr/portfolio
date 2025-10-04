@@ -5,7 +5,6 @@ date: 2003-07-30 14:24:00
 description: о прозе Юрия Горюхина
 tags: литература критика
 categories: литературная-критика
-citation: true
 bibliography: 2003-07-30-selo-goryukhino.bib
 ---
 
@@ -32,7 +31,7 @@ bibliography: 2003-07-30-selo-goryukhino.bib
 В заключение хотелось бы поблагодарить Ю. Горюхина за его (как особенно хорошо видно из «речи финалиста») почти по-родственному бережное отношение к русской литературе, которого не всегда можно ожидать и от студентов-филологов.
 
 
-<d-code block language="bibtex">
+```latex
 @article{orehov2003SeloGoryuhino,
   entrysubtype = {newspaper},
   title = {Село Горюхино и его обитатели},
@@ -44,5 +43,5 @@ bibliography: 2003-07-30-selo-goryukhino.bib
   url = {https://nevmenandr.github.io/portfolio/html/2003/selo-goryukhino/},
   langid = {russian}
 }
-</d-code>
+```
 
