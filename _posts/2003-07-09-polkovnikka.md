@@ -7,7 +7,6 @@ tags: перевод
 citation: true
 related_posts: true
 bibliography: 2003-07-09-polkovnikka.bib
-featured: true
 authors:
   - name: Борис Орехов
     url: "https://nevmenandr.github.io/portfolio/"
