@@ -9,6 +9,6 @@ nav_order: 8
 
 <i class="fa fa-book" aria-hidden="true"></i> <a href="https://pushkinskijdom.ru/zhurnal-tsifrovye-issledovaniya/">Цифровые гуманитарные исследования</a>
 
-<i class="fa fa-book" aria-hidden="true"></i> Назировский архив
+<i class="fa fa-book" aria-hidden="true"></i> <s href="https://nevmenandr.github.io/portfolio/journals/dkx">Назировский архив</a>
 
 <i class="fa fa-book" aria-hidden="true"></i> Диалог. Карнавал. Хронотоп
