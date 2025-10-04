@@ -44,7 +44,9 @@ authors:
 Полковникка бер кемдә яҙмай<br/>
 Полковникты бер кемдә көтмәй.
 
-<d-code block language="latex">
+## Цитирование
+
+```
 @article{orehov2003PolkovnikkaBer,
   entrysubtype = {newspaper},
   title = {Полковникка бер кемдә яҙмай},
@@ -55,4 +57,4 @@ authors:
   url = {https://nevmenandr.github.io/portfolio/html/2003/polkovnikka/},
   langid = {bashkir}
 }
-</d-code>
+```
