@@ -6,6 +6,17 @@ description: Перевод на башкирский язык песни «По
 tags: перевод
 citation: true
 related_posts: true
+bibliography: 2003-07-09-polkovnikka.bib
+featured: true
+authors:
+  - name: Борис Орехов
+    url: "https://nevmenandr.github.io/portfolio/"
+    affiliations:
+      name: БашГУ
+  - name: Станислав Коган
+    url: "https://www.instagram.com/sgkogan/"
+    affiliations:
+      name: УГАТУ
 ---
 
 *Опубликовано в газете «Комсомольская правда — Уфа» (2003, №28 (34))*

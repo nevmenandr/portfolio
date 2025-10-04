@@ -6,6 +6,7 @@ description: о прозе Юрия Горюхина
 tags: литература критика
 categories: литературная-критика
 citation: true
+bibliography: 2003-07-30-selo-goryukhino.bib
 ---
 
 *Опубликовано в газете «Истоки» (2003, №31 (331)) стр. 11*
