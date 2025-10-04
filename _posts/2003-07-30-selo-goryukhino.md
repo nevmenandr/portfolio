@@ -32,6 +32,12 @@ bibliography: 2003-07-30-selo-goryukhino.bib
 
 ## Цитирование
 
+### ГОСТ
+
+`Орехов Б. Село Горюхино и его обитатели // Истоки. – 2003. –  №31 (331). – 30 июля. – С. 11.`
+
+### BibTex
+
 ```tex
 @article{orehov2003SeloGoryuhino,
   entrysubtype = {newspaper},
