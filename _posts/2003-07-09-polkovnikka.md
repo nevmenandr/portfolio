@@ -4,9 +4,7 @@ title: Полковникка бер кемдә яҙмай
 date: 2003-07-09 14:24:00
 description: Перевод на башкирский язык песни «Полковнику никто не пишет»
 tags: перевод
-citation: true
 related_posts: true
-bibliography: 2003-07-09-polkovnikka.bib
 authors:
   - name: Борис Орехов
     url: "https://nevmenandr.github.io/portfolio/"
@@ -45,3 +43,16 @@ authors:
 
 Полковникка бер кемдә яҙмай<br/>
 Полковникты бер кемдә көтмәй.
+
+<d-code block language="bibtex">
+@article{orehov2003PolkovnikkaBer,
+  entrysubtype = {newspaper},
+  title = {Полковникка бер кемдә яҙмай},
+  author = {Орехов, Борис and Коган, Станислав},
+  date = {2003-07-09},
+  edition = {Комсомольская правда — Уфа},
+  location = {Уфа},
+  url = {https://nevmenandr.github.io/portfolio/html/2003/polkovnikka/},
+  langid = {bashkir}
+}
+</d-code>

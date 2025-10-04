@@ -32,5 +32,17 @@ bibliography: 2003-07-30-selo-goryukhino.bib
 В заключение хотелось бы поблагодарить Ю. Горюхина за его (как особенно хорошо видно из «речи финалиста») почти по-родственному бережное отношение к русской литературе, которого не всегда можно ожидать и от студентов-филологов.
 
 
-
+<d-code block language="bibtex">
+@article{orehov2003SeloGoryuhino,
+  entrysubtype = {newspaper},
+  title = {Село Горюхино и его обитатели},
+  author = {Орехов, Борис},
+  date = {2003-07-30},
+  edition = {Истоки},
+  pages = {11},
+  location = {Уфа},
+  url = {https://nevmenandr.github.io/portfolio/html/2003/selo-goryukhino/},
+  langid = {russian}
+}
+</d-code>
 
