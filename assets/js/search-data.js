@@ -65,33 +65,22 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/journals/";
           },
-        },{id: "post-",
+        },{id: "post-как-отсылка-к-структурной-лингвистике-стала-посланием-целой-эпохе",
         
-          title: "",
+          title: "Как отсылка к структурной лингвистике стала посланием целой эпохе",
         
-        description: "",
+        description: "О лингвистике в фильме «Ворошиловский стрелок»",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/portfolio/html/2025/2008-04-22-infanty/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/portfolio/html/2025/2006-09-30-sorokin/";
+            window.location.href = "/portfolio/html/2021/govorukhin/";
           
         },
       },{id: "post-что-такое-филология",
         
           title: "Что такое филология?",
         
-        description: "об определении",
+        description: "Об определении",
         section: "Posts",
         handler: () => {
           
@@ -131,6 +120,28 @@ ninja.data = [{
             window.location.href = "/portfolio/html/2012/eni/";
           
         },
+      },{id: "post-рецензия-на-сборник-система-языка",
+        
+          title: "Рецензия на сборник Система языка",
+        
+        description: "Рецензия на сборник статей о лингвистике",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2010/reviewsystem/";
+          
+        },
+      },{id: "post-василь-ханнанов-инфанты-памяти-наиля-латфуллина",
+        
+          title: "Василь Ханнанов. Инфанты - памяти Наиля Латфуллина",
+        
+        description: "О выставке Василя Ханнанова",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2008/infanty/";
+          
+        },
       },{id: "post-йосип-пупачич-море",
         
           title: "Йосип Пупачич — Море",
@@ -162,6 +173,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/portfolio/html/2006/7dney/";
+          
+        },
+      },{id: "post-писатель-сорокин-я-путешествую-по-моим-внутренним-литературным-провинциям",
+        
+          title: "Писатель Сорокин «Я путешествую по моим внутренним литературным провинциям»",
+        
+        description: "Интервью с Владимиром Сорокиным",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2006/sorokin/";
           
         },
       },{id: "post-на-трансцендентную-злобу-дня",
