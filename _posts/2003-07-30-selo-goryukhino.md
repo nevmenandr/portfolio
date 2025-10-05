@@ -2,7 +2,7 @@
 layout: post
 title: Село Горюхино и его обитатели
 date: 2003-07-30 14:24:00
-description: о прозе Юрия Горюхина
+description: О прозе Юрия Горюхина
 tags: литература критика
 categories: литературная-критика
 bibliography: 2003-07-30-selo-goryukhino.bib
