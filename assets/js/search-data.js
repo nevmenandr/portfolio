@@ -65,11 +65,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/journals/";
           },
-        },{id: "post-как-отсылка-к-структурной-лингвистике-стала-посланием-целой-эпохе",
+        },{id: "post-режиссёр-говорухин-против-кино",
         
-          title: "Как отсылка к структурной лингвистике стала посланием целой эпохе",
+          title: "Режиссёр Говорухин против кино",
         
-        description: "О лингвистике в фильме «Ворошиловский стрелок»",
+        description: "Как отсылка к структурной лингвистике стала посланием целой эпохе",
         section: "Posts",
         handler: () => {
           
@@ -140,6 +140,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/portfolio/html/2008/infanty/";
+          
+        },
+      },{id: "post-вавилонская-библиотека",
+        
+          title: "Вавилонская библиотека",
+        
+        description: "Вариант статьи для Википедии",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2007/babel/";
           
         },
       },{id: "post-йосип-пупачич-море",
