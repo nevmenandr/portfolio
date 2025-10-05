@@ -65,7 +65,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/journals/";
           },
-        },{id: "post-что-такое-филология",
+        },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2025/2008-04-22-infanty/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2025/2006-09-30-sorokin/";
+          
+        },
+      },{id: "post-что-такое-филология",
         
           title: "Что такое филология?",
         
@@ -120,6 +142,160 @@ ninja.data = [{
             window.location.href = "/portfolio/html/2007/more/";
           
         },
+      },{id: "post-мир-запахов-в-слове-и-цвете",
+        
+          title: "Мир запахов в слове и цвете",
+        
+        description: "Об экранизации романа «Парфюмер»",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2006/zapax/";
+          
+        },
+      },{id: "post-семь-дней-творения",
+        
+          title: "Семь дней творения",
+        
+        description: "О картинах Василя Ханнанова",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2006/7dney/";
+          
+        },
+      },{id: "post-на-трансцендентную-злобу-дня",
+        
+          title: "На трансцендентную злобу дня",
+        
+        description: "О творческом объединении «Фантасофия»",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2006/transcendent/";
+          
+        },
+      },{id: "post-утро-стрелецкой-казни",
+        
+          title: "Утро Стрелецкой казни",
+        
+        description: "Ответ на статью Александра Стрельца «Литература Башкортостана»",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2006/strelec/";
+          
+        },
+      },{id: "post-20-лет-мифа",
+        
+          title: "20 лет мифа",
+        
+        description: "О выставке Василя Ханнанова",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2006/20years/";
+          
+        },
+      },{id: "post-геометрия-борьбы-земли-и-неба",
+        
+          title: "Геометрия борьбы Земли и Неба",
+        
+        description: "О картине Наиля Латфуллина «Формула незавершенного устремления»",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2006/geometry/";
+          
+        },
+      },{id: "post-взгляд-на-уфимскую-литературу-в-2006-году-первое-полугодие",
+        
+          title: "Взгляд на уфимскую литературу в 2006 году (первое полугодие)",
+        
+        description: "Обзор русскоязычной литературы Уфы",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2006/vzglyad/";
+          
+        },
+      },{id: "post-жемчужная-тоска",
+        
+          title: "Жемчужная тоска",
+        
+        description: "О повести Игоря Савельева «Когда мне было тридцать»",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2006/toska/";
+          
+        },
+      },{id: "post-интервью-с-дмитрием-горчевым",
+        
+          title: "Интервью с Дмитрием Горчевым",
+        
+        description: "Горчев дает интервью",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2005/gorchev/";
+          
+        },
+      },{id: "post-антимиры-науки",
+        
+          title: "Антимиры науки",
+        
+        description: "О лжеученых",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2005/antimir/";
+          
+        },
+      },{id: "post-отрицание-и-пространство",
+        
+          title: "Отрицание и пространство",
+        
+        description: "О коллективной выставке «Не-места»",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2005/otricanie/";
+          
+        },
+      },{id: "post-победа-марксизма-над-языкознанием",
+        
+          title: "Победа марксизма над языкознанием",
+        
+        description: "Рецензия на книгу Михаила Вайскопфа «Писатель Сталин»",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2004/marxism/";
+          
+        },
+      },{id: "post-эстетика-интереса",
+        
+          title: "Эстетика интереса",
+        
+        description: "О рассказе «Реванш» Станислава Когана",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2004/aesthetics/";
+          
+        },
+      },{id: "post-бледный-бледный-город",
+        
+          title: "Бледный «Бледный город»",
+        
+        description: "О повести И. Савельева",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2004/bledny/";
+          
+        },
       },{id: "post-село-горюхино-и-его-обитатели",
         
           title: "Село Горюхино и его обитатели",
@@ -140,6 +316,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/portfolio/html/2003/polkovnikka/";
+          
+        },
+      },{id: "post-закон-всемирного-тяготения-рассказ",
+        
+          title: "Закон всемирного тяготения. Рассказ",
+        
+        description: "Рассказ о том, как Ньютон становится Буддой",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2001/zakonv/";
           
         },
       },{id: "books-the-godfather",
