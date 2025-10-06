@@ -65,7 +65,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/journals/";
           },
-        },{id: "post-режиссёр-говорухин-против-кино",
+        },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2025/2004-03-12-ufimsky/";
+          
+        },
+      },{id: "post-режиссёр-говорухин-против-кино",
         
           title: "Режиссёр Говорухин против кино",
         
@@ -131,6 +142,17 @@ ninja.data = [{
             window.location.href = "/portfolio/html/2010/reviewsystem/";
           
         },
+      },{id: "post-типология-филологических-антиответов-фоновые-знания-и-речевые-регистры",
+        
+          title: "Типология филологических «антиответов» фоновые знания и речевые регистры",
+        
+        description: "Об ошибочных ответах студентов на экзамене по литературе",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2008/typesanti/";
+          
+        },
       },{id: "post-василь-ханнанов-инфанты-памяти-наиля-латфуллина",
         
           title: "Василь Ханнанов. Инфанты — памяти Наиля Латфуллина",
@@ -173,6 +195,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/portfolio/html/2006/zapax/";
+          
+        },
+      },{id: "post-несвоевременные-мысли-анатолия-яковлева",
+        
+          title: "Несвоевременные мысли Анатолия Яковлева",
+        
+        description: "О поэзии Анатолия Яковлева",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2006/yakovlev/";
           
         },
       },{id: "post-семь-дней-творения",
