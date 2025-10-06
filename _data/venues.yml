@@ -1,10 +1,10 @@
-"Труды ИРЯ":
-  url: https://trudy.ruslang.ru/ru
+"Стих":
+  url: https://nevmenandr.github.io/#verse
   color: "#00369f"
 
-"ЦГИ":
+"DH":
   color: "#009f36"
   url: https://pushkinskijdom.ru/zhurnal-tsifrovye-issledovaniya/
 
-"Preprint":
+"Назиров":
   color: "#ff0000"
