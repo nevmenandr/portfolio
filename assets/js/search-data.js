@@ -65,18 +65,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/journals/";
           },
-        },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/portfolio/html/2025/2008-04-13-smirnov/";
-          
-        },
-      },{id: "post-режиссёр-говорухин-против-кино",
+        },{id: "post-режиссёр-говорухин-против-кино",
         
           title: "Режиссёр Говорухин против кино",
         
@@ -162,6 +151,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/portfolio/html/2008/infanty/";
+          
+        },
+      },{id: "post-рец-на-кн-смирнов-а-е-слово-о-полку-игореве-перевод-с-древнерусского-статьи-комментарии",
+        
+          title: "Рец. на кн. Смирнов А. Е. Слово о полку Игореве. Перевод с древнерусского,...",
+        
+        description: "Рецензия на издание нового перевода «Слова о полку Игореве»",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2008/smirnov/";
           
         },
       },{id: "post-вавилонская-библиотека",
