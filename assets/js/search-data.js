@@ -329,6 +329,17 @@ ninja.data = [{
             window.location.href = "/portfolio/html/2005/gorchev/";
           
         },
+      },{id: "post-зашифрованный-дэн-браун",
+        
+          title: "Зашифрованный Дэн Браун",
+        
+        description: "О романе Дэна Брауна «Код да Винчи»",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2005/brown/";
+          
+        },
       },{id: "post-антимиры-науки",
         
           title: "Антимиры науки",
