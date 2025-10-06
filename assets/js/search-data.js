@@ -307,6 +307,17 @@ ninja.data = [{
             window.location.href = "/portfolio/html/2006/toska/";
           
         },
+      },{id: "post-писатель-фрики-и-общественный-договор",
+        
+          title: "Писатель, «фрики» и общественный договор",
+        
+        description: "О псевдонаучных идеях Э. Мулдашева",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2006/freak/";
+          
+        },
       },{id: "post-роман-парфюмер-элитный-продукт-массового-потребления",
         
           title: "Роман «Парфюмер» — Элитный продукт массового потребления",
