@@ -65,7 +65,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/journals/";
           },
-        },{id: "post-режиссёр-говорухин-против-кино",
+        },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2025/2008-04-13-smirnov/";
+          
+        },
+      },{id: "post-режиссёр-говорухин-против-кино",
         
           title: "Режиссёр Говорухин против кино",
         
