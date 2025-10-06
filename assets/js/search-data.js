@@ -65,18 +65,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/journals/";
           },
-        },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/portfolio/html/2025/2004-03-12-ufimsky/";
-          
-        },
-      },{id: "post-режиссёр-говорухин-против-кино",
+        },{id: "post-режиссёр-говорухин-против-кино",
         
           title: "Режиссёр Говорухин против кино",
         
@@ -184,6 +173,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/portfolio/html/2007/more/";
+          
+        },
+      },{id: "post-о-чём-разговаривают-птицы-или-молчащие-картины",
+        
+          title: "О чём разговаривают Птицы, или Молчащие картины",
+        
+        description: "О картинах Александра Соболева",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2007/sobolev/";
           
         },
       },{id: "post-мир-запахов-в-слове-и-цвете",
@@ -296,6 +296,17 @@ ninja.data = [{
             window.location.href = "/portfolio/html/2006/toska/";
           
         },
+      },{id: "post-роман-парфюмер-элитный-продукт-массового-потребления",
+        
+          title: "Роман «Парфюмер». Элитный продукт массового потребления",
+        
+        description: "О романе Патрика Зюскинда",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2005/parfumer/";
+          
+        },
       },{id: "post-интервью-с-дмитрием-горчевым",
         
           title: "Интервью с Дмитрием Горчевым",
@@ -360,6 +371,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/portfolio/html/2004/bledny/";
+          
+        },
+      },{id: "post-уфимский-феномен-шевчук-и-земфира-как-башкирский-брэнд",
+        
+          title: "«Уфимский феномен» — Шевчук и Земфира как башкирский брэнд",
+        
+        description: "О том, как слушать тексты песен Шевчука и Земфиры",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2004/ufimsky/";
           
         },
       },{id: "post-село-горюхино-и-его-обитатели",
