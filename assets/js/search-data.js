@@ -469,7 +469,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/portfolio/news/announcement_20250921/";
-            },},{id: "projects-w2v-russian-fiction",
+            },},{id: "news-выступление-на-радио-маяк-как-устроены-вселенные-в-литературе-microphone",
+          title: 'Выступление на радио «Маяк»: Как устроены вселенные в литературе :microphone:',
+          description: "",
+          section: "News",},{id: "projects-w2v-russian-fiction",
           title: 'w2v-russian-fiction',
           description: "Большая векторная модель русской художественной прозы",
           section: "Projects",handler: () => {
