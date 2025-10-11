@@ -65,7 +65,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/journals/";
           },
-        },{id: "post-режиссёр-говорухин-против-кино",
+        },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2025/2012-11-05-erotic/";
+          
+        },
+      },{id: "post-режиссёр-говорухин-против-кино",
         
           title: "Режиссёр Говорухин против кино",
         
@@ -74,6 +85,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/portfolio/html/2021/govorukhin/";
+          
+        },
+      },{id: "post-животный-мир-слова-о-полку-игореве-в-переводе-филиппа-супо",
+        
+          title: "Животный мир «Слова о полку Игореве» в переводе Филиппа Супо",
+        
+        description: "О животных во французском переводе «Слова о полку Игореве»",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2012/animalw/";
           
         },
       },{id: "post-что-такое-филология",
@@ -120,6 +142,39 @@ ninja.data = [{
             window.location.href = "/portfolio/html/2012/eni/";
           
         },
+      },{id: "post-научный-архив-профессора-р-г-назирова",
+        
+          title: "Научный архив профессора Р. Г. Назирова",
+        
+        description: "Описание архива ученого",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2011/archnazirov/";
+          
+        },
+      },{id: "post-сюрреалистическая-рецепция-фольклорных-мотивов-в-стихотворении-а-бретона-le-puits-enchante",
+        
+          title: "Сюрреалистическая рецепция фольклорных мотивов в стихотворении А. Бретона «Le puits enchante»",
+        
+        description: "О сюрреалистической поэзии",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2011/puitench/";
+          
+        },
+      },{id: "post-филипп-супо-о-слове-о-полку-игореве",
+        
+          title: "Филипп Супо о «Слове о полку Игореве»",
+        
+        description: "Комментированный перевод статьи Ф. Супо",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2011/soupaultpreface/";
+          
+        },
       },{id: "post-рецензия-на-сборник-система-языка",
         
           title: "Рецензия на сборник Система языка",
@@ -129,6 +184,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/portfolio/html/2010/reviewsystem/";
+          
+        },
+      },{id: "post-жанр-поэтического-искусства-буало-как-системное-и-внесистемное-явление",
+        
+          title: "Жанр «Поэтического искусства» Буало как системное и внесистемное явление",
+        
+        description: "О том, насколько «Поэтическое искусство» вписывается в концепцию классицизма",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2009/boileau/";
+          
+        },
+      },{id: "post-рецензия-на-книгу-дж-каллера-теория-литературы",
+        
+          title: "Рецензия на книгу Дж. Каллера Теория литературы",
+        
+        description: "Рецензия на книгу о теории литературы",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2009/reviewkaller/";
           
         },
       },{id: "post-типология-филологических-антиответов-фоновые-знания-и-речевые-регистры",
@@ -162,6 +239,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/portfolio/html/2008/smirnov/";
+          
+        },
+      },{id: "post-французские-стихотворения-ф-и-тютчева-в-свете-авторской-лексикографии",
+        
+          title: "Французские стихотворения Ф. И. Тютчева в свете авторской лексикографии",
+        
+        description: "Тютчев в словаре",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2007/autlex/";
           
         },
       },{id: "post-вавилонская-библиотека",
