@@ -65,18 +65,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/journals/";
           },
-        },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/portfolio/html/2025/2012-11-05-erotic/";
-          
-        },
-      },{id: "post-режиссёр-говорухин-против-кино",
+        },{id: "post-режиссёр-говорухин-против-кино",
         
           title: "Режиссёр Говорухин против кино",
         
@@ -96,6 +85,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/portfolio/html/2012/animalw/";
+          
+        },
+      },{id: "post-воскресение-жанра-сетевая-эротическая-литература",
+        
+          title: "Воскресение жанра — сетевая эротическая литература",
+        
+        description: "Об эротической литературе",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/portfolio/html/2012/erotic/";
           
         },
       },{id: "post-что-такое-филология",
