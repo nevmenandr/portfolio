@@ -4,7 +4,7 @@ title: «Диалог. Карнавал. Хронотоп» 2009–2018
 permalink: /journals/dkx
 ---
 
-## 2018. №1 (45)
+# 2018. №1 (45)
 
 [Номер целиком](https://nevmenandr.github.io/portfolio/assets/pdf/n45.pdf)
 
@@ -80,7 +80,9 @@ permalink: /journals/dkx
 
 [Б. В. Орехов    Подмена понятий: о дискуссии вокруг «Письма 10 академиков»](https://nevmenandr.github.io/portfolio/assets/pdf/n45-201-210.pdf)
 
-## 2010. №1–2 (43–44)
+---
+
+# 2010. №1–2 (43–44)
 
 [Номер целиком](https://nevmenandr.github.io/portfolio/assets/pdf/dkh3_txt.pdf)
 
@@ -142,7 +144,9 @@ permalink: /journals/dkx
 
 [Галлямов А. А. О сборнике статей «Память литературы и память культуры: механизмы, функции, репрезентации»](https://nevmenandr.github.io/portfolio/assets/pdf/dkh3_txt-218-223.pdf)
 
-## 2009. №2 (42)
+---
+
+# 2009. №2 (42)
 
 [Номер целиком](https://nevmenandr.github.io/portfolio/assets/pdf/dkh2_txt.pdf)
 
@@ -198,7 +202,9 @@ permalink: /journals/dkx
 
 [Глушаков П. С. «М. М. Бахтин: 110», или Опыт рижского бахтиноведения](https://nevmenandr.github.io/portfolio/assets/pdf/dkh2_txt-206-210.pdf)
 
-## 2009. №1 (41)
+---
+
+# 2009. №1 (41)
 
 ### От редакции
 
