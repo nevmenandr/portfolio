@@ -8,3 +8,43 @@
 
 "Назиров":
   color: "#ff0000"
+  
+"AI":
+  color: "#556B2F"
+  url: https://nevmenandr.github.io/#AI
+  
+"Корпус":
+  color:  "#FFA07A"
+ 
+"Тезисы докладов":
+  color:  "#9ACD32"
+ 
+"Интернет":
+  color:  "#B0C4DE"
+ 
+"Семантика":
+  color:  "#8A2BE2"
+  url: https://nevmenandr.github.io/#linguistics
+ 
+"Рецензия":
+  color:  "#D2691E"
+ 
+"Литература":
+  color:  "#BC8F8F"
+  url: https://nevmenandr.github.io/#philology
+ 
+"СПИ":
+  color:  "#800000"
+ 
+"Башкирский":
+  color:  "#008B8B"
+ 
+"Хроника":
+  color:  "#228B22"
+ 
+"Перевод":
+  color:  "#C0C0C0"
+
+"Кино":
+  color:  "#1E90FF"
+  url: https://nevmenandr.github.io/#movies
