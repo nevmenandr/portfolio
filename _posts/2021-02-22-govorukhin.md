@@ -93,8 +93,7 @@ thumbnail: assets/img/govor1.jpg
   date = {2021-02-22},
   url = {https://nevmenandr.github.io/portfolio/html/2021/govorukhin/},
   langid = {russian},
-  organization = {Дискурс},
-  file = {/home/boris/Zotero/storage/2PAHVIPZ/rezhiss-r-govoruhin-protiv-kino-kak-otsylka-k-strukturnoy-lingvistike-stala-poslaniem-tseloy-ep.html}
+  organization = {Дискурс}
 }
 ```
  
