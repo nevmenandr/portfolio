@@ -33,7 +33,7 @@ latest_posts:
 
 <span style="color: #cf4a31;"><i class="ai ai-openedition ai-2x"></i></span> <a href="https://schonenrede.hypotheses.org/">Научный блог</a>
 
-<span style="color: #000000;"><i class="ai ai-code ai-2x"></i></span> <a href="https://dev.to/nevmenandr">Программистский блог</a>
+<span style="color: #000000;"><i class="ai ai-conversation ai-2x"></i></span> <a href="https://dev.to/nevmenandr">Программистский блог</a>
 
 Меня интересуют закономерности на больших выборках, полные и системные описания явлений по образцу грамматик языков. Для этого я применяю к текстовым коллекциям инструменты машинной обработки естественного языка. Знаю и люблю художественную литературу, не теряю из вида ее специфику. Понимаю, как развивается современный искусственный интеллект.
 
