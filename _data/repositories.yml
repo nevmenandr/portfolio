@@ -5,9 +5,7 @@ repo_description_lines_max: 2
 
 github_repos:
   - nevmenandr/word2vec-russian-novels
-  - nevmenandr/delta_illustr
-  - nevmenandr/artlang-dani-el
-  - nevmenandr/avtandil-programming-language
-  - nevmenandr/18cent-font
   - nevmenandr/VML
-  - nevmenandr/bashmorph
+  - nevmenandr/RSD
+  - nevmenandr/delta_illustr
+  - nevmenandr/avtandil-programming-language

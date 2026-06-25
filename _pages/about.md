@@ -29,11 +29,13 @@ latest_posts:
 
 <a href="https://orcid.org/0000-0002-9099-0436"><span style="color: #b2c046;"><i class="ai ai-orcid ai-2x"></i></span> 0000-0002-9099-0436</a>
 
-<i class="ai ai-google-scholar ai-2x ai-pull-left"></i> Меня зовут Борис Орехов. Я занимаюсь научными исследованиями и иногда говорю про них в популярном жанре. Еще я пишу код, как полезный, так и развлекательный.
+<i class="ai ai-google-scholar ai-2x ai-pull-left"></i> Меня зовут [Борис Орехов](https://scholar.google.ru/citations?user=EMcL0ioAAAAJ&hl=ru). Я занимаюсь научными исследованиями и иногда говорю про них в популярном жанре. Еще я пишу код, как полезный, так и развлекательный.
 
 <span style="color: #cf4a31;"><i class="ai ai-openedition ai-2x"></i></span> <a href="https://schonenrede.hypotheses.org/">Научный блог</a>
 
 <span style="color: #000000;"><i class="ai ai-conversation ai-2x"></i></span> <a href="https://dev.to/nevmenandr">Программистский блог</a>
+
+<span style="color: #000000;"><i class="ai ai-archive ai-2x"></i></span> <a href="https://nevmenandr.github.io/slides">Слайды выступлений</a>
 
 Меня интересуют закономерности на больших выборках, полные и системные описания явлений по образцу грамматик языков. Для этого я применяю к текстовым коллекциям инструменты машинной обработки естественного языка. Знаю и люблю художественную литературу, не теряю из вида ее специфику. Понимаю, как развивается современный искусственный интеллект.
 
