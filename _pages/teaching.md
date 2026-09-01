@@ -7,6 +7,13 @@ nav: true
 nav_order: 6
 ---
 
+## 2026
+
+------
+
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> [Семинар наставника](https://nevmenandr.github.io/portfolio/teaching/hse2026) (НИУ ВШЭ, 2026)
+
+
 ## 2025
 
 ------
