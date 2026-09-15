@@ -11,6 +11,8 @@ nav_order: 6
 
 ------
 
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> [Введение в цифровые гуманитарные исследования](https://nevmenandr.github.io/portfolio/teaching/msu2026) (МГУ, 2026)
+
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> [Семинар наставника](https://nevmenandr.github.io/portfolio/teaching/hse2026) (НИУ ВШЭ, 2026)
 
 
