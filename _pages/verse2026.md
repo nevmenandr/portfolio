@@ -20,7 +20,7 @@ permalink: /teaching/verse2026
 
 ### 18.11.
 
-*Лекция:* Нестандартная силлабо-тоника. Неклассическая метрика. Презентация.
+*Лекция:* Цифровое стиховедение. Силлабо-тоника. [Презентация](https://nevmenandr.github.io/portfolio/assets/pdf/verse-2026-2.pdf) Нестандартная силлабо-тоника. Неклассическая метрика. [Презентация](https://nevmenandr.github.io/portfolio/assets/pdf/verse-2026-3.pdf).
 
 *Семинар:* Поэтический корпус. [Ссылка](https://ruscorpora.ru/search?search=CgQyAggJ)
 
