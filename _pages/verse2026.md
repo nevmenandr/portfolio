@@ -30,7 +30,7 @@ permalink: /teaching/verse2026
 
 *Лекция:* Лингвистика стиха. [Презентация](https://nevmenandr.github.io/portfolio/assets/pdf/verse-2026-5.pdf).
 
-*Семинар:* Компьютерная обработка текста.
+*Семинар:* Компьютерная обработка текста. [POS-таггинг и лемматизация](https://colab.research.google.com/drive/1InQ0QkkEhoZM1wnnkBbM0f2_yvCiX5fT?usp=sharing)
 
 ### 2.12. 
 
