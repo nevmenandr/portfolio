@@ -20,7 +20,7 @@ permalink: /teaching/verse2026
 
 ### 18.11.
 
-*Лекция:* Цифровое стиховедение. Силлабо-тоника. [Презентация](https://nevmenandr.github.io/portfolio/assets/pdf/verse-2026-2.pdf) Нестандартная силлабо-тоника. Неклассическая метрика. [Презентация](https://nevmenandr.github.io/portfolio/assets/pdf/verse-2026-3.pdf).
+*Лекция:* Цифровое стиховедение. Силлабо-тоника. [Презентация](https://nevmenandr.github.io/portfolio/assets/pdf/verse-2026-2.pdf) Нестандартная силлабо-тоника. [Презентация](https://nevmenandr.github.io/portfolio/assets/pdf/verse-2026-3.pdf). Дольник. [Презентация](https://nevmenandr.github.io/portfolio/assets/pdf/verse-2026-4.pdf).
 
 *Семинар:* Поэтический корпус. [Ссылка](https://ruscorpora.ru/search?search=CgQyAggJ)
 
@@ -28,7 +28,7 @@ permalink: /teaching/verse2026
 
 ### 25.11. 
 
-*Лекция:* Лингвистика стиха. Презентация.
+*Лекция:* Лингвистика стиха. [Презентация](https://nevmenandr.github.io/portfolio/assets/pdf/verse-2026-5.pdf).
 
 *Семинар:* Компьютерная обработка текста.
 
